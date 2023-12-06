@@ -1,6 +1,6 @@
 # AEP-activity
 
-## Install
+## Install
 
 macOS:
 ```
