@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 from scipy.stats import norm
-from scipy import log
 from sklearn.mixture import GaussianMixture
 
 # Importing data from CSV files
@@ -83,25 +82,3 @@ plt.plot(x, pdf, label='Trimodal PDF', color="salmon")
 # Displaying the legend and showing the plot
 plt.legend()
 plt.show()
-
-# Calculating the AIC and BIC for the normal distribution
-k = 2
-n = len(df)  # Number of data points
-
-log_likelihood = sum(norm.logpdf(df, mu, std))
-aic_normal = 2*k - 2*log_likelihood
-bic_normal = log(n)*k - 2*log_likelihood
-print('AIC for Normal Distribution:', aic_normal)
-print('BIC for Normal Distribution:', bic_normal, "\n")
-
-# Calculating the AIC and BIC for the bimodal distribution
-aic_bimodal = gmm_bimodal.aic(data)
-bic_bimodal = gmm_bimodal.bic(data)
-print('AIC for Bimodal Distribution:', aic_bimodal)
-print('BIC for Bimodal Distribution:', bic_bimodal, "\n")
-
-# Calculating the AIC and BIC for the trimodal distribution
-aic_trimodal = gmm_trimodal.aic(data)
-bic_trimodal = gmm_trimodal.bic(data)
-print('AIC for Trimodal Distribution:', aic_trimodal)
-print('BIC for Trimodal Distribution:', bic_trimodal)

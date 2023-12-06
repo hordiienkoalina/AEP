@@ -1,0 +1,41 @@
+# Python
+*.pyc
+__pycache__/
+venv/
+*.env
+
+# IDE
+.idea/
+.vscode/
+
+# Compiled files
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual environments
+test-env/
+test-venv/
+env/
+env.bak/
+env/
+venv/
+ENV/
+env.bak/
+env/
+venv/
+ENV/
+
+# Miscellaneous
+*.bak
+*.swp
+*~
+.DS_Store
