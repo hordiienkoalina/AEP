@@ -1,0 +1,1238 @@
+Scheduled Arrival,Date,Destination Code,Destination City,Flight Number,Airline,Status,Actual Arrival Time
+00:40,27 Nov,SCL,Santiago,AR1283,Aerolineas Argentinas ,4Landed,00:49
+00:42,27 Nov,JUJ,Jujuy,JA3665,JetSMARTLanded,,00:37
+01:05,27 Nov,MDZ,Mendoza,WJ3249,JetSMART,,
+01:05,27 Nov,MDZ,Mendoza,JA3249,JetSMARTLanded,,01:00
+01:45,27 Nov,BRC,San Carlos de Bariloche,AR1679,Aerolineas ArgentinasLanded,,01:36
+01:55,27 Nov,MDZ,Mendoza,FO5057,FlybondiLanded,,01:46
+02:35,27 Nov,MDZ,Mendoza,AR1965,Aerolineas,,
+02:35,27 Nov,GRU,Sao Paulo,AR1259,Aerolineas Argentinas ,2Landed,02:37
+03:20,27 Nov,GIG,Rio De Janeiro,AR1263,Aerolineas Argentinas ,3Landed,03:27
+04:05,27 Nov,CRD,Comodoro Rivadavia,AR1825,Aerolineas Argentinas ,1Landed,04:01
+04:05,27 Nov,GRU,Sao Paulo,AR1247,Aerolineas Argentinas ,2Landed,03:52
+04:15,27 Nov,MDZ,Mendoza,AR1965,Aerolineas,,
+04:45,27 Nov,ASU,Asuncion,AR1341,Aerolineas Argentinas ,3Landed,04:29
+05:05,27 Nov,LIM,Lima,AR1365,Aerolineas Argentinas ,2Landed,04:40
+05:25,27 Nov,SSA,Salvador,AR1221,Aerolineas Argentinas ,1Landed,04:59
+05:45,27 Nov,VVI,Santa Cruz,AR1369,Aerolineas ArgentinasLanded,,05:03
+07:30,27 Nov,BOG,Bogota,AR1361,Aerolineas Argentinas ,1Landed,07:32
+08:25,27 Nov,ROS,Rosario,AR1709,Aerolineas Argentinas ,3Landed,08:04
+08:37,27 Nov,MDZ,Mendoza,WJ3241,JetSMART,,
+08:37,27 Nov,MDZ,Mendoza,JA3241,JetSMARTLanded,,08:22
+08:40,27 Nov,COR,Cordoba,AR1531,Aerolineas Argentinas ,3Landed,08:26
+08:45,27 Nov,MVD,Montevideo,AR1381,Aerolineas Argentinas ,1Landed,08:50
+08:55,27 Nov,SLA,Salta,AR1465,Aerolineas Argentinas ,1Landed,08:30
+08:55,27 Nov,MDZ,Mendoza,AR1417,Aerolineas Argentinas ,4Landed,08:47
+08:59,27 Nov,MDZ,Mendoza,FO5063,FlybondiLanded,,09:07
+09:10,27 Nov,COR,Cordoba,FO5021,FlybondiLanded,,08:52
+09:10,27 Nov,BHI,Bahia Blanca,AR1623,Aerolineas ArgentinasLanded,,09:17
+09:14,27 Nov,BRC,San Carlos de Bariloche,JA3183,JetSMARTLanded,,09:05
+09:20,27 Nov,GRU,Sao Paulo,LA8032,LATAM AirlinesLanded,,09:55
+09:30,27 Nov,NQN,Neuquen,AR1665,Aerolineas ArgentinasLanded,,09:15
+09:30,27 Nov,COR,Cordoba,AR1543,Aerolineas Argentinas ,1Landed,09:27
+09:35,27 Nov,RGA,Rio Grande,AR1845,Aerolineas Argentinas ,2Landed,09:19
+09:36,27 Nov,COR,Cordoba,WJ3267,JetSMART,,
+09:36,27 Nov,COR,Cordoba,JA3267,JetSMARTLanded,,09:10
+09:40,27 Nov,POA,Porto Alegre,AR1235,Aerolineas Argentinas ,2Estimated,10:32
+09:45,27 Nov,JUJ,Jujuy,AR1471,Aerolineas Argentinas ,1Landed,09:24
+09:50,27 Nov,RES,Resistencia,AR1787,Aerolineas Argentinas ,1Landed,09:31
+09:55,27 Nov,SFN,Santa Fe,AR1721,Aerolineas Argentinas ,1Landed,09:35
+10:00,27 Nov,SCL,Santiago,JA1003,JetSMARTLanded,,10:39
+10:00,27 Nov,BRC,San Carlos de Bariloche,FO5237,FlybondiLanded,,09:47
+10:05,27 Nov,CRD,Comodoro Rivadavia,AR1837,Aerolineas Argentinas ,1Landed,10:08
+10:05,27 Nov,COR,Cordoba,AR1547,Aerolineas Argentinas ,1Landed,10:16
+10:10,27 Nov,MDQ,Mar Del Plata,AR1603,Aerolineas Argentinas ,2Landed,10:05
+10:10,27 Nov,TUC,Tucuman,AR1489,Aerolineas,,
+10:20,27 Nov,PSS,Posadas,AR1767,Aerolineas ArgentinasLanded,,10:02
+10:30,27 Nov,NQN,Neuquen,AR1653,Aerolineas Argentinas ,1Landed,10:20
+10:40,27 Nov,CWB,Curitiba,AR1229,Aerolineas Argentinas ,1Landed,10:24
+10:45,27 Nov,SLA,Salta,AR1463,Aerolineas ArgentinasLanded,,10:29
+10:45,27 Nov,COR,Cordoba,AR1509,Aerolineas Argentinas ,4Landed,10:36
+11:10,27 Nov,MDZ,Mendoza,AR1713,Aerolineas Argentinas ,1Landed,11:00
+11:20,27 Nov,GIG,Rio De Janeiro,G37650,Gol ,2Landed,10:43
+11:20,27 Nov,CNQ,Corrientes,AR1771,Aerolineas Argentinas ,1Landed,10:56
+11:20,27 Nov,PSS,Posadas,AR1765,Aerolineas Argentinas ,1Landed,11:25
+11:40,27 Nov,GRU,Sao Paulo,LA8140,LATAM Airlines ,1Landed,11:33
+11:45,27 Nov,COR,Cordoba,AR1539,Aerolineas ArgentinasLanded,,11:30
+11:55,27 Nov,USH,Ushuaia,AR1885,Aerolineas Argentinas ,2Landed,11:48
+12:00,27 Nov,BRC,San Carlos de Bariloche,JA3191,JetSMARTLanded,,12:14
+12:00,27 Nov,SCL,Santiago,AR1281,Aerolineas Argentinas ,1Landed,12:11
+12:00,27 Nov,MDZ,Mendoza,WJ3243,JetSMART,,
+12:00,27 Nov,MDZ,Mendoza,JA3243,JetSMARTLanded,,12:06
+12:10,27 Nov,IGR,Iguazu,FO5101,FlybondiLanded,,12:33
+12:20,27 Nov,USH,Ushuaia,WJ3460,JetSMART,,
+12:20,27 Nov,USH,Ushuaia,JA3460,JetSMARTLanded,,12:35
+12:20,27 Nov,GRU,Sao Paulo,G37682,Gol ,2Landed,12:02
+12:25,27 Nov,FTE,El Calafate,AR1867,Aerolineas Argentinas ,3Landed,12:29
+12:30,27 Nov,NQN,Neuquen,AR1651,Aerolineas Argentinas ,2Landed,12:21
+12:40,27 Nov,USH,Ushuaia,AR1909,Aerolineas ArgentinasLanded,,12:38
+12:40,27 Nov,MVD,Montevideo,AR1385,Aerolineas Argentinas ,1Landed,12:24
+12:46,27 Nov,NQN,Neuquen,WJ3445,JetSMART,,
+12:46,27 Nov,NQN,Neuquen,JA3445,JetSMARTLanded,,12:53
+12:50,27 Nov,BHI,Bahia Blanca,AR1621,Aerolineas Argentinas ,1Landed,12:48
+12:50,27 Nov,TUC,Tucuman,AR1483,Aerolineas,,
+13:00,27 Nov,GRU,Sao Paulo,AR1241,Aerolineas Argentinas ,4Landed,12:42
+13:05,27 Nov,FMA,Formosa,AR1769,Aerolineas,,
+13:15,27 Nov,UAQ,San Juan,AR1421,Aerolineas ArgentinasLanded,,13:29
+13:30,27 Nov,IGR,Iguazu,AR1733,Aerolineas Argentinas ,3Landed,13:54
+13:35,27 Nov,PSS,Posadas,FO5123,FlybondiLanded,,13:18
+13:50,27 Nov,LUQ,San Luis,AR1431,Aerolineas ArgentinasLanded,,13:41
+13:54,27 Nov,NQN,Neuquen,WJ3447,JetSMART,,
+13:54,27 Nov,NQN,Neuquen,JA3447,JetSMARTLanded,,13:38
+14:00,27 Nov,PRA,Parana,AR1727,Aerolineas ArgentinasLanded,,13:51
+14:10,27 Nov,IGR,Iguazu,FO5103,FlybondiLanded,,14:03
+14:10,27 Nov,CPC,San Martin De Los Andes,AR1673,Aerolineas Argentinas ,1Landed,14:00
+14:25,27 Nov,ASU,Asuncion,AR1343,Aerolineas Argentinas ,3Landed,14:16
+14:35,27 Nov,FTE,El Calafate,FO5551,FlybondiLanded,,15:21
+14:35,27 Nov,RES,Resistencia,AR1781,Aerolineas Argentinas ,2Landed,14:22
+14:35,27 Nov,BRC,San Carlos de Bariloche,AR1683,Aerolineas Argentinas ,2Landed,14:58
+14:40,27 Nov,SLA,Salta,AR1457,Aerolineas ArgentinasLanded,,14:30
+14:40,27 Nov,USH,Ushuaia,AR1843,Aerolineas ArgentinasLanded,,14:44
+14:45,27 Nov,GIG,Rio De Janeiro,AR1261,Aerolineas Argentinas ,1Landed,14:18
+15:25,27 Nov,RGL,Rio Gallegos,AR1801,Aerolineas Argentinas ,1Landed,15:25
+15:25,27 Nov,TUC,Tucuman,AR1499,Aerolineas,,
+15:30,27 Nov,CPC,San Martin De Los Andes,WJ3551,JetSMART,,
+15:30,27 Nov,CPC,San Martin De Los Andes,JA3551,JetSMARTLanded,,15:13
+15:30,27 Nov,PMY,Puerto Madryn,FO5311,FlybondiEstimated,,16:17
+15:35,27 Nov,CNQ,Corrientes,AR1773,Aerolineas ArgentinasLanded,,15:18
+15:35,27 Nov,BRC,San Carlos de Bariloche,AR1645,Aerolineas ArgentinasLanded,,15:30
+15:40,27 Nov,AFA,San Rafael,AR1435,Aerolineas Argentinas ,1Landed,15:36
+15:40,27 Nov,GRU,Sao Paulo,LA8034,LATAM AirlinesLanded,,15:39
+16:00,27 Nov,LIM,Lima,LA2380,LATAM AirlinesLanded,,15:33
+16:10,27 Nov,SDE,Santiago Del Estero,AR1495,Aerolineas Argentinas ,1Landed,16:07
+16:20,27 Nov,SCL,Santiago,AR1285,Aerolineas Argentinas ,3Landed,16:58
+16:25,27 Nov,BRC,San Carlos de Bariloche,AR1635,Aerolineas ArgentinasLanded,,16:16
+16:30,27 Nov,TUC,Tucuman,AR1461,Aerolineas Argentinas ,1Landed,16:13
+16:35,27 Nov,MDZ,Mendoza,AR1405,Aerolineas Argentinas ,2Landed,16:51
+16:40,27 Nov,GRU,Sao Paulo,G37684,Gol ,2Landed,16:44
+16:40,27 Nov,USH,Ushuaia,AR1899,Aerolineas Argentinas ,2Landed,16:39
+16:45,27 Nov,CPC,San Martin De Los Andes,AR1671,Aerolineas Argentinas ,1Landed,16:47
+16:55,27 Nov,MDZ,Mendoza,AR1449,Aerolineas Argentinas ,1Estimated,17:32
+16:55,27 Nov,PDP,Punta Del Este,AR1353,Aerolineas ArgentinasLanded,,17:02
+17:00,27 Nov,COR,Cordoba,AR1551,Aerolineas Argentinas ,1Landed,16:55
+17:11,27 Nov,COR,Cordoba,WJ3269,JetSMART,,
+17:11,27 Nov,COR,Cordoba,JA3269,JetSMARTLanded,,17:18
+17:15,27 Nov,COR,Cordoba,AR1511,Aerolineas Argentinas ,1Landed,17:06
+17:15,27 Nov,CTC,Catamarca,AR1443,Aerolineas Argentinas,,
+17:20,27 Nov,SCL,Santiago,WJ3015,JetSMART,,
+17:20,27 Nov,SCL,Santiago,JA3015,JetSMARTLanded,,17:29
+17:35,27 Nov,FMA,Formosa,AR1761,Aerolineas ArgentinasLanded,,17:54
+17:35,27 Nov,MDZ,Mendoza,AR1503,Aerolineas Argentinas ,2Landed,17:40
+17:40,27 Nov,ASU,Asuncion,WJ3091,JetSMART,,
+17:40,27 Nov,ASU,Asuncion,JA3091,JetSMARTLanded,,17:51
+17:40,27 Nov,USH,Ushuaia,AR1897,Aerolineas Argentinas ,1Landed,17:36
+17:40,27 Nov,REL,Trelew,AR1883,Aerolineas ArgentinasEstimated,,19:41
+17:45,27 Nov,CRD,Comodoro Rivadavia,AR1839,Aerolineas Argentinas ,1Landed,17:44
+17:50,27 Nov,BRC,San Carlos de Bariloche,AR1631,Aerolineas ArgentinasLanded,,17:46
+18:05,27 Nov,SDE,Santiago Del Estero,FO5231,FlybondiLanded,,18:45
+18:10,27 Nov,FTE,El Calafate,AR1877,Aerolineas ArgentinasLanded,,18:10
+18:20,27 Nov,GIG,Rio De Janeiro,LA8142,LATAM AirlinesLanded,,18:13
+18:30,27 Nov,RES,Resistencia,AR1783,Aerolineas Argentinas ,2Landed,18:29
+18:30,27 Nov,EQS,Esquel,AR1667,Aerolineas Argentinas ,1Landed,19:07
+18:35,27 Nov,MDQ,Mar Del Plata,AR1605,Aerolineas Argentinas ,2Landed,18:18
+18:40,27 Nov,SCL,Santiago,AR1287,Aerolineas Argentinas ,1Estimated,20:38
+18:45,27 Nov,UAQ,San Juan,AR1423,Aerolineas Argentinas ,1Estimated,19:42
+18:50,27 Nov,BHI,Bahia Blanca,AR1629,Aerolineas ArgentinasLanded,,18:48
+18:55,27 Nov,IRJ,La Rioja,AR1441,Aerolineas Argentinas ,1Landed,18:42
+19:00,27 Nov,MDZ,Mendoza,FO5055,FlybondiLanded,,18:55
+19:00,27 Nov,SFN,Santa Fe,AR1723,Aerolineas ArgentinasLanded,,18:57
+19:00,27 Nov,ROS,Rosario,AR1717,Aerolineas Argentinas ,2Landed,18:32
+19:00,27 Nov,FLN,Florianopolis,G37692,Gol ,1Landed,18:22
+19:00,27 Nov,CNQ,Corrientes,FO5151,FlybondiLanded,,19:01
+19:03,27 Nov,SLA,Salta,WJ3495,JetSMART,,
+19:03,27 Nov,SLA,Salta,JA3495,JetSMARTLanded,,19:04
+19:30,27 Nov,RGL,Rio Gallegos,AR1803,Aerolineas Argentinas,,
+19:45,27 Nov,CRD,Comodoro Rivadavia,AR1829,Aerolineas ArgentinasLanded,,20:05
+19:45,27 Nov,NQN,Neuquen,AR1657,Aerolineas Argentinas ,2Landed,19:21
+19:50,27 Nov,MDZ,Mendoza,WJ3247,JetSMART,,
+19:50,27 Nov,MDZ,Mendoza,JA3247,JetSMARTLanded,,19:40
+19:50,27 Nov,TUC,Tucuman,AR1487,Aerolineas Argentinas ,1Landed,19:45
+19:50,27 Nov,GRU,Sao Paulo,AR1245,Aerolineas Argentinas ,1Landed,20:21
+20:00,27 Nov,MDQ,Mar Del Plata,AR1611,Aerolineas,,
+20:20,27 Nov,FTE,El Calafate,AR1873,Aerolineas Argentinas ,1Landed,20:07
+20:25,27 Nov,IGR,Iguazu,AR1739,Aerolineas Argentinas ,2Landed,20:34
+20:30,27 Nov,BRC,San Carlos de Bariloche,AR1640,Aerolineas ArgentinasLanded,,19:56
+20:35,27 Nov,ROS,Rosario,AR1715,Aerolineas Argentinas ,3Landed,20:14
+20:40,27 Nov,REL,Trelew,AR1851,Aerolineas ArgentinasLanded,,20:47
+21:00,27 Nov,SCL,Santiag,oH2535,Sky AirlineLanded,,20:52
+21:15,27 Nov,MDZ,Mendoza,AR1401,Aerolineas Argentinas ,2Landed,21:11
+21:15,27 Nov,RGL,Rio Gallegos,AR1608,Aerolineas ArgentinasLanded,,21:03
+21:20,27 Nov,GRU,Sao Paulo,LA8138,LATAM AirlinesLanded,,21:26
+21:25,27 Nov,PMY,Puerto Madryn,AR1857,Aerolineas ArgentinasLanded,,21:09
+21:35,27 Nov,COR,Cordoba,AR1507,Aerolineas Argentinas ,1Landed,21:15
+21:40,27 Nov,RSA,Santa Rosa,AR1521,Aerolineas ArgentinasLanded,,21:29
+21:50,27 Nov,GRU,Sao Paulo,AR1243,Aerolineas Argentinas ,1Landed,21:52
+21:50,27 Nov,BRC,San Carlos de Bariloche,AR1691,Aerolineas Argentinas ,1Landed,21:46
+22:05,27 Nov,NQN,Neuquen,AR1663,Aerolineas ArgentinasLanded,,22:11
+22:20,27 Nov,IRJ,La Rioja,AR1444,Aerolineas ArgentinasEstimated,,23:48
+22:25,27 Nov,IGR,Iguazu,AR1735,Aerolineas Argentinas ,2Landed,21:57
+22:25,27 Nov,SLA,Salta,AR1455,Aerolineas Argentinas ,2Landed,22:42
+22:25,27 Nov,MVD,Montevideo,AR1383,Aerolineas ArgentinasLanded,,22:15
+22:40,27 Nov,UAQ,San Juan,AR1425,Aerolineas Argentinas ,1Landed,22:49
+22:45,27 Nov,RCU,Rio Cuarto,AR1527,Aerolineas ArgentinasLanded,,22:37
+22:50,27 Nov,MDZ,Mendoza,AR1403,Aerolineas Argentinas ,2Landed,23:19
+22:55,27 Nov,GRU,Sao Paulo,AR1259,Aerolineas Argentinas,,
+23:00,27 Nov,BRC,San Carlos de Bariloche,JA3187,JetSMARTLanded,,22:59
+23:00,27 Nov,BRC,San Carlos de Bariloche,WJ3187,JetSMART,,
+23:05,27 Nov,COR,Cordoba,AR1501,Aerolineas Argentinas ,1Landed,23:09
+23:05,27 Nov,JUJ,Jujuy,AR1473,Aerolineas Argentinas ,1Landed,22:52
+23:10,27 Nov,SLA,Salta,AR1497,Aerolineas ArgentinasLanded,,23:49
+23:16,27 Nov,COR,Cordoba,WJ3271,JetSMART,,
+23:16,27 Nov,COR,Cordoba,JA3271,JetSMARTLanded,,23:24
+23:18,27 Nov,EZE,Buenos Aires,AR1040,Aerolineas ArgentinasLanded,,23:13
+23:25,27 Nov,SDE,Santiago Del Estero,AR1491,Aerolineas Argentinas ,1Landed,00:05
+23:25,27 Nov,PMY,Puerto Madryn,AR1859,Aerolineas ArgentinasLanded,,23:56
+23:25,27 Nov,PSS,Posadas,AR1763,Aerolineas Argentinas ,1Landed,22:57
+23:25,27 Nov,IGR,Iguazu,AR1741,Aerolineas Argentinas ,1Landed,23:16
+23:27,27 Nov,TUC,Tucuman,WJ3503,JetSMART,,
+23:27,27 Nov,TUC,Tucuman,JA3503,JetSMARTLanded,,23:28
+00:24,28 Nov,SLA,Salta,WJ3497,JetSMART,,
+00:24,28 Nov,SLA,Salta,JA3497,JetSMARTLanded,,00:10
+00:40,28 Nov,SCL,Santiago,AR1283,Aerolineas Argentinas,,
+04:05,28 Nov,GRU,Sao Paulo,AR1247,Aerolineas Argentinas ,2Landed,04:11
+04:05,28 Nov,CRD,Comodoro Rivadavia,AR1825,Aerolineas Argentinas ,1Landed,04:20
+04:45,28 Nov,ASU,Asuncion,AR1341,Aerolineas Argentinas ,3Landed,04:25
+05:05,28 Nov,LIM,Lima,AR1365,Aerolineas Argentinas ,2Landed,04:41
+05:45,28 Nov,VVI,Santa Cruz,AR1369,Aerolineas ArgentinasLanded,,05:30
+07:30,28 Nov,BOG,Bogota,AR1361,Aerolineas Argentinas ,1Landed,07:15
+08:16,28 Nov,COR,Cordoba,WJ3269,JetSMART,,
+08:16,28 Nov,COR,Cordoba,JA3269,JetSMARTLanded,,07:54
+08:25,28 Nov,ROS,Rosario,AR1709,Aerolineas Argentinas ,3Landed,08:00
+08:40,28 Nov,COR,Cordoba,AR1531,Aerolineas Argentinas ,3Landed,08:24
+08:45,28 Nov,MVD,Montevideo,AR1381,Aerolineas Argentinas ,1Landed,08:17
+08:55,28 Nov,SLA,Salta,AR1465,Aerolineas Argentinas ,1Landed,08:50
+08:55,28 Nov,MDZ,Mendoza,AR1417,Aerolineas Argentinas ,4Landed,08:42
+09:10,28 Nov,BHI,Bahia Blanca,AR1623,Aerolineas ArgentinasLanded,,08:56
+09:15,28 Nov,CRD,Comodoro Rivadavia,AR1837,Aerolineas Argentinas ,1Landed,08:59
+09:19,28 Nov,BRC,San Carlos de Bariloche,JA3183,JetSMARTLanded,,09:12
+09:30,28 Nov,COR,Cordoba,FO5021,FlybondiLanded,,08:38
+09:30,28 Nov,NQN,Neuquen,AR1665,Aerolineas ArgentinasLanded,,09:09
+09:35,28 Nov,RGA,Rio Grande,AR1845,Aerolineas Argentinas ,2Landed,09:24
+09:40,28 Nov,TUC,Tucuman,FO5221,FlybondiLanded,,09:21
+09:40,28 Nov,TUC,Tucuman,AR5221,Aerolineas,,
+09:45,28 Nov,JUJ,Jujuy,AR1471,Aerolineas Argentinas ,1Landed,09:29
+09:50,28 Nov,RES,Resistencia,AR1787,Aerolineas Argentinas ,1Landed,09:32
+09:55,28 Nov,SFN,Santa Fe,AR1721,Aerolineas Argentinas ,1Landed,09:45
+10:05,28 Nov,COR,Cordoba,AR1547,Aerolineas Argentinas ,1Landed,09:52
+10:10,28 Nov,TUC,Tucuman,AR1489,Aerolineas ArgentinasLanded,,10:04
+10:15,28 Nov,MDQ,Mar Del Plata,AR1603,Aerolineas Argentinas ,2Landed,09:56
+10:20,28 Nov,MDZ,Mendoza,AR1427,Aerolineas Argentinas ,1Landed,10:06
+10:30,28 Nov,BRC,San Carlos de Bariloche,JA3185,JetSMARTLanded,,10:20
+10:30,28 Nov,NQN,Neuquen,AR1653,Aerolineas Argentinas ,1Landed,10:32
+10:35,28 Nov,BRC,San Carlos de Bariloche,FO5239,FlybondiLanded,,10:09
+10:40,28 Nov,NQN,Neuquen,WJ3443,JetSMART,,
+10:40,28 Nov,NQN,Neuquen,JA3443,JetSMARTLanded,,10:37
+10:45,28 Nov,RGA,Rio Grande,AR1847,Aerolineas,,
+10:45,28 Nov,SLA,Salta,AR1463,Aerolineas ArgentinasLanded,,10:39
+10:50,28 Nov,GIG,Rio De Janeiro,G37650,Gol ,2Landed,10:29
+11:00,28 Nov,BRC,San Carlos de Bariloche,AR1631,Aerolineas ArgentinasLanded,,10:42
+11:00,28 Nov,JUJ,Jujuy,WJ3665,JetSMART,,
+11:00,28 Nov,JUJ,Jujuy,JA3665,JetSMARTLanded,,10:54
+11:00,28 Nov,MDZ,Mendoza,FO5051,FlybondiLanded,,10:45
+11:20,28 Nov,PSS,Posadas,AR1765,Aerolineas Argentinas ,1Landed,11:09
+11:20,28 Nov,GRU,Sao Paulo,LA8140,LATAM Airlines ,1Landed,11:17
+11:35,28 Nov,USH,Ushuaia,AR1885,Aerolineas Argentinas ,2Landed,12:01
+11:40,28 Nov,GRU,Sao Paulo,G37682,Gol ,2Landed,11:42
+11:45,28 Nov,COR,Cordoba,AR1539,Aerolineas ArgentinasLanded,,11:28
+11:50,28 Nov,BRC,San Carlos de Bariloche,FO5241,FlybondiLanded,,11:37
+12:00,28 Nov,JUJ,Jujuy,AR1475,Aerolineas ArgentinasLanded,,11:40
+12:00,28 Nov,SCL,Santiago,AR1281,Aerolineas Argentinas ,1Landed,11:33
+12:10,28 Nov,TUC,Tucuman,AR1483,Aerolineas Argentinas ,2Landed,12:03
+12:15,28 Nov,IGR,Iguazu,FO5101,FlybondiLanded,,12:05
+12:15,28 Nov,IGR,Iguazu,AR1733,Aerolineas Argentinas ,3Landed,12:13
+12:20,28 Nov,BSB,Brasilia,AR1217,Aerolineas Argentinas ,1Landed,12:29
+12:25,28 Nov,FMA,Formosa,AR1769,Aerolineas ArgentinasLanded,,12:26
+12:35,28 Nov,FTE,El Calafate,AR1867,Aerolineas Argentinas ,3Landed,12:35
+12:40,28 Nov,MVD,Montevideo,AR1385,Aerolineas Argentinas ,1Landed,12:18
+12:50,28 Nov,BHI,Bahia Blanca,AR1621,Aerolineas Argentinas ,1Landed,12:44
+13:00,28 Nov,GRU,Sao Paulo,AR1241,Aerolineas Argentinas ,4Landed,12:42
+13:10,28 Nov,UAQ,San Juan,AR1421,Aerolineas ArgentinasLanded,,13:07
+13:20,28 Nov,SLA,Salta,FO5161,FlybondiLanded,,12:55
+13:35,28 Nov,FTE,El Calafate,FO5551,FlybondiLanded,,12:07
+13:35,28 Nov,FTE,El Calafate,AR1917,Aerolineas ArgentinasLanded,,13:37
+13:45,28 Nov,REL,Trelew,AR1882,Aerolineas ArgentinasLanded,,13:40
+13:45,28 Nov,BRC,San Carlos de Bariloche,AR1683,Aerolineas Argentinas ,2Landed,13:54
+13:45,28 Nov,NQN,Neuquen,AR1659,Aerolineas Argentinas,,
+13:50,28 Nov,LUQ,San Luis,AR1431,Aerolineas ArgentinasLanded,,13:51
+13:55,28 Nov,SLA,Salta,AR1459,Aerolineas ArgentinasLanded,,13:47
+14:00,28 Nov,IGR,Iguazu,AR1743,Aerolineas Argentinas ,2Landed,14:23
+14:00,28 Nov,PRA,Parana,AR1727,Aerolineas ArgentinasLanded,,13:57
+14:05,28 Nov,USH,Ushuaia,FO5043,FlybondiLanded,,13:33
+14:15,28 Nov,PMY,Puerto Madryn,FO5311,FlybondiLanded,,14:02
+14:35,28 Nov,RES,Resistencia,AR1781,Aerolineas Argentinas ,2Landed,14:06
+14:35,28 Nov,MDZ,Mendoza,AR1413,Aerolineas Argentinas ,2Landed,14:16
+14:40,28 Nov,SLA,Salta,AR1457,Aerolineas ArgentinasLanded,,14:33
+14:45,28 Nov,GIG,Rio De Janeiro,AR1261,Aerolineas Argentinas ,1Landed,14:58
+14:45,28 Nov,SDE,Santiago Del Estero,FO5231,FlybondiLanded,,14:19
+15:00,28 Nov,CNQ,Corrientes,FO5151,FlybondiEstimated,,16:24
+15:00,28 Nov,IGR,Iguazu,AR1919,Aerolineas ArgentinasLanded,,14:55
+15:25,28 Nov,COR,Cordoba,AR1511,Aerolineas Argentinas ,2Landed,15:06
+15:25,28 Nov,TUC,Tucuman,AR1499,Aerolineas ArgentinasLanded,,15:29
+15:30,28 Nov,MDZ,Mendoza,JA3249,JetSMARTLanded,,15:26
+15:30,28 Nov,MDZ,Mendoza,WJ3249,JetSMART,,
+15:35,28 Nov,NQN,Neuquen,FO5301,FlybondiLanded,,15:21
+15:35,28 Nov,RGL,Rio Gallegos,AR1801,Aerolineas Argentinas ,1Landed,15:45
+15:40,28 Nov,GRU,Sao Paulo,LA8034,LATAM AirlinesLanded,,15:53
+15:40,28 Nov,USH,Ushuaia,AR1895,Aerolineas Argentinas ,1Landed,16:09
+15:40,28 Nov,AFA,San Rafael,AR1435,Aerolineas Argentinas ,1Landed,15:57
+16:00,28 Nov,LIM,Lima,LA2380,LATAM AirlinesLanded,,15:50
+16:05,28 Nov,VDM,Viedma,AR1642,Aerolineas ArgentinasLanded,,15:40
+16:10,28 Nov,NQN,Neuquen,JA3449,JetSMARTLanded,,16:03
+16:10,28 Nov,MDQ,Mar Del Plata,AR1601,Aerolineas Argentinas ,2Landed,16:06
+16:10,28 Nov,SDE,Santiago Del Estero,AR1495,Aerolineas Argentinas ,1Landed,16:00
+16:10,28 Nov,NQN,Neuquen,WJ3449,JetSMART,,
+16:20,28 Nov,SCL,Santiago,AR1285,Aerolineas Argentinas ,3Landed,16:29
+16:40,28 Nov,USH,Ushuaia,AR1899,Aerolineas Argentinas ,2Landed,16:35
+16:40,28 Nov,MDZ,Mendoza,AR1449,Aerolineas Argentinas ,2Landed,16:50
+16:50,28 Nov,MDZ,Mendoza,FO5055,FlybondiLanded,,16:39
+16:50,28 Nov,PDP,Punta Del Este,AR1353,Aerolineas ArgentinasLanded,,16:43
+16:55,28 Nov,FMA,Formosa,AR1761,Aerolineas ArgentinasLanded,,17:31
+16:55,28 Nov,COR,Cordoba,AR1543,Aerolineas Argentinas ,1Landed,17:01
+17:00,28 Nov,CRD,Comodoro Rivadavia,AR1839,Aerolineas Argentinas ,1Landed,17:08
+17:05,28 Nov,SLA,Salta,AR1451,Aerolineas Argentinas ,1Landed,16:46
+17:10,28 Nov,GRU,Sao Paulo,G37684,Gol ,2Landed,17:25
+17:25,28 Nov,CTC,Catamarca,AR1444,Aerolineas ArgentinasLanded,,16:52
+17:30,28 Nov,BRC,San Carlos de Bariloche,AR1635,Aerolineas Argentinas ,1Landed,17:39
+17:30,28 Nov,MDZ,Mendoza,AR1503,Aerolineas Argentinas ,2Landed,17:18
+17:55,28 Nov,COR,Cordoba,FO5019,FlybondiLanded,,17:42
+18:00,28 Nov,CPC,San Martin De Los Andes,AR1671,Aerolineas Argentinas ,1Landed,18:12
+18:00,28 Nov,IGR,Iguazu,AR1731,Aerolineas Argentinas ,2Landed,17:21
+18:10,28 Nov,MDQ,Mar Del Plata,AR1609,Aerolineas Argentinas ,1Landed,17:50
+18:25,28 Nov,BRC,San Carlos de Bariloche,AR1685,Aerolineas Argentinas ,2Landed,18:07
+18:25,28 Nov,CRD,Comodoro Rivadavia,FO5501,FlybondiLanded,,18:30
+18:35,28 Nov,BHI,Bahia Blanca,AR1629,Aerolineas ArgentinasLanded,,18:57
+18:35,28 Nov,UAQ,San Juan,AR1423,Aerolineas Argentinas ,1Landed,18:37
+18:40,28 Nov,SCL,Santiago,AR1287,Aerolineas Argentinas ,1Landed,18:27
+18:45,28 Nov,PSS,Posadas,FO5123,FlybondiLanded,,18:39
+18:50,28 Nov,MDZ,Mendoza,FO5053,FlybondiLanded,,18:53
+19:00,28 Nov,FLN,Florianopolis,G37692,Gol ,1Landed,18:23
+19:00,28 Nov,PSS,Posadas,FO5121,FlybondiLanded,,19:42
+19:00,28 Nov,IGR,Iguazu,AR1759,Aerolineas Argentinas ,1Landed,18:49
+19:00,28 Nov,SFN,Santa Fe,AR1723,Aerolineas ArgentinasLanded,,18:46
+19:05,28 Nov,BRC,San Carlos de Bariloche,FO5273,FlybondiLanded,,18:43
+19:10,28 Nov,IGR,Iguazu,FO5105,FlybondiLanded,,19:28
+19:20,28 Nov,MDZ,Mendoza,AR1411,Aerolineas Argentinas ,2Landed,19:19
+19:20,28 Nov,CWB,Curitiba,AR1227,Aerolineas Argentinas ,1Landed,19:13
+19:30,28 Nov,RGL,Rio Gallegos,AR1803,Aerolineas Argentinas ,1Landed,19:22
+19:34,28 Nov,MDZ,Mendoza,JA3241,JetSMARTLanded,,19:33
+19:35,28 Nov,CRD,Comodoro Rivadavia,AR1829,Aerolineas ArgentinasLanded,,20:13
+19:40,28 Nov,USH,Ushuaia,AR1909,Aerolineas ArgentinasLanded,,19:35
+19:50,28 Nov,NQN,Neuquen,AR1657,Aerolineas Argentinas ,2Landed,20:02
+19:55,28 Nov,TUC,Tucuman,AR1487,Aerolineas Argentinas ,1Landed,19:38
+20:00,28 Nov,CNQ,Corrientes,FO5153,FlybondiLanded,,20:38
+20:00,28 Nov,MDQ,Mar Del Plata,AR1611,Aerolineas ArgentinasLanded,,19:54
+20:20,28 Nov,FTE,El Calafate,AR1873,Aerolineas Argentinas ,1Landed,20:05
+20:25,28 Nov,IRJ,La Rioja,AR1441,Aerolineas Argentinas ,1Landed,19:58
+20:30,28 Nov,MVD,Montevideo,AR1387,Aerolineas Argentinas ,2Landed,20:24
+20:40,28 Nov,REL,Trelew,AR1851,Aerolineas ArgentinasLanded,,20:36
+20:50,28 Nov,SCL,Santiag,oH2535,Sky AirlineLanded,,20:59
+20:50,28 Nov,CRD,Comodoro Rivadavia,AR1827,Aerolineas Argentinas ,1Landed,20:27
+20:51,28 Nov,TUC,Tucuman,WJ3503,JetSMART,,
+20:51,28 Nov,TUC,Tucuman,JA3503,JetSMARTLanded,,21:16
+21:05,28 Nov,MDZ,Mendoza,AR1401,Aerolineas Argentinas ,2Landed,21:07
+21:10,28 Nov,GRU,Sao Paulo,LA8138,LATAM AirlinesLanded,,21:10
+21:25,28 Nov,CTC,Catamarca,AR1443,Aerolineas Argentinas ,1Landed,21:02
+21:35,28 Nov,BRC,San Carlos de Bariloche,AR1691,Aerolineas Argentinas ,1Landed,21:12
+21:35,28 Nov,COR,Cordoba,AR1507,Aerolineas Argentinas ,1Landed,21:32
+21:40,28 Nov,RSA,Santa Rosa,AR1521,Aerolineas,,
+21:40,28 Nov,COR,Cordoba,FO5017,FlybondiLanded,,22:30
+21:40,28 Nov,RES,Resistencia,AR1785,Aerolineas Argentinas ,1Landed,21:28
+21:50,28 Nov,NQN,Neuquen,AR1663,Aerolineas ArgentinasLanded,,21:58
+21:50,28 Nov,GRU,Sao Paulo,AR1243,Aerolineas Argentinas ,1Landed,21:36
+22:15,28 Nov,ROS,Rosario,AR1717,Aerolineas Argentinas ,2Landed,21:39
+22:15,28 Nov,COR,Cordoba,AR1501,Aerolineas Argentinas ,1Landed,22:04
+22:25,28 Nov,IGR,Iguazu,AR1735,Aerolineas Argentinas ,2Landed,21:54
+22:25,28 Nov,MVD,Montevideo,AR1383,Aerolineas ArgentinasLanded,,22:08
+22:45,28 Nov,UAQ,San Juan,AR1425,Aerolineas Argentinas ,1Landed,22:43
+22:45,28 Nov,POA,Porto Alegre,AR1233,Aerolineas,,
+22:50,28 Nov,USH,Ushuaia,AR1880,Aerolineas Argentinas ,1Landed,22:48
+22:55,28 Nov,MDZ,Mendoza,AR1407,Aerolineas Argentinas ,1Landed,23:13
+23:10,28 Nov,SLA,Salta,AR1497,Aerolineas ArgentinasLanded,,23:47
+23:10,28 Nov,JUJ,Jujuy,AR1473,Aerolineas Argentinas ,1Landed,22:39
+23:25,28 Nov,IGR,Iguazu,AR1741,Aerolineas Argentinas ,1Landed,23:16
+23:25,28 Nov,NQN,Neuquen,AR1655,Aerolineas Argentinas ,1Landed,23:51
+23:25,28 Nov,SDE,Santiago Del Estero,AR1491,Aerolineas Argentinas ,1Landed,22:56
+23:25,28 Nov,FTE,El Calafate,AR1877,Aerolineas ArgentinasLanded,,23:24
+23:50,28 Nov,USH,Ushuaia,AR1887,Aerolineas Argentinas ,2Landed,00:12
+00:40,29 Nov,SCL,Santiago,AR1283,Aerolineas Argentinas ,4Landed,00:36
+00:55,29 Nov,USH,Ushuaia,AR1889,Aerolineas Argentinas ,3Landed,00:43
+01:24,29 Nov,COR,Cordoba,WJ3271,JetSMART,,
+01:24,29 Nov,COR,Cordoba,JA3271,JetSMARTLanded,,01:56
+01:55,29 Nov,IGR,Iguazu,WJ3399,JetSMART,,
+01:55,29 Nov,IGR,Iguazu,JA3399,JetSMARTLanded,,02:16
+03:15,29 Nov,CRD,Comodoro Rivadavia,AR1825,Aerolineas Argentinas ,1Landed,03:19
+03:20,29 Nov,GIG,Rio De Janeiro,AR1263,Aerolineas Argentinas ,3Landed,03:30
+04:05,29 Nov,GRU,Sao Paulo,AR1247,Aerolineas Argentinas ,2Landed,04:17
+04:45,29 Nov,ASU,Asuncion,AR1341,Aerolineas Argentinas ,3Landed,04:06
+05:05,29 Nov,LIM,Lima,AR1365,Aerolineas Argentinas ,2Landed,04:45
+05:25,29 Nov,SSA,Salvador,AR1221,Aerolineas Argentinas ,1Landed,04:52
+05:45,29 Nov,VVI,Santa Cruz,AR1369,Aerolineas ArgentinasLanded,,05:56
+07:30,29 Nov,BOG,Bogota,AR1361,Aerolineas Argentinas ,1Landed,07:06
+08:25,29 Nov,ROS,Rosario,AR1709,Aerolineas Argentinas ,3Landed,08:05
+08:40,29 Nov,COR,Cordoba,AR1531,Aerolineas Argentinas ,3Landed,08:34
+08:40,29 Nov,REL,Trelew,AR1855,Aerolineas ArgentinasLanded,,08:21
+08:45,29 Nov,MVD,Montevideo,AR1381,Aerolineas Argentinas ,1Landed,08:29
+08:55,29 Nov,SLA,Salta,AR1465,Aerolineas Argentinas ,1Landed,09:13
+08:55,29 Nov,MDZ,Mendoza,AR1417,Aerolineas Argentinas ,4Landed,08:40
+08:56,29 Nov,COR,Cordoba,WJ3267,JetSMART,,
+08:56,29 Nov,COR,Cordoba,JA3267,JetSMARTLanded,,09:18
+09:05,29 Nov,COR,Cordoba,FO5015,FlybondiLanded,,09:05
+09:05,29 Nov,SCL,Santiago,JA1001,JetSMARTLanded,,09:40
+09:10,29 Nov,IGR,Iguazu,WJ3391,JetSMART,,
+09:10,29 Nov,IGR,Iguazu,JA3391,JetSMARTLanded,,09:03
+09:10,29 Nov,BHI,Bahia Blanca,AR1623,Aerolineas ArgentinasLanded,,09:00
+09:20,29 Nov,IGR,Iguazu,FO5101,FlybondiLanded,,10:01
+09:25,29 Nov,JUJ,Jujuy,AR1471,Aerolineas Argentinas ,1Landed,09:49
+09:30,29 Nov,NQN,Neuquen,AR1665,Aerolineas ArgentinasLanded,,09:24
+09:30,29 Nov,COR,Cordoba,AR1543,Aerolineas ArgentinasLanded,,09:21
+09:35,29 Nov,GRU,Sao Paulo,LA8032,LATAM AirlinesLanded,,09:32
+09:35,29 Nov,RGA,Rio Grande,AR1845,Aerolineas Argentinas ,2Landed,09:37
+09:50,29 Nov,RES,Resistencia,AR1787,Aerolineas Argentinas ,1Landed,09:42
+09:55,29 Nov,BRC,San Carlos de Bariloche,FO5237,FlybondiLanded,,08:45
+09:55,29 Nov,SFN,Santa Fe,AR1721,Aerolineas Argentinas ,1Landed,09:51
+10:10,29 Nov,TUC,Tucuman,AR1489,Aerolineas ArgentinasLanded,,09:58
+10:15,29 Nov,MDQ,Mar Del Plata,AR1603,Aerolineas Argentinas,,
+10:20,29 Nov,PSS,Posadas,AR1767,Aerolineas ArgentinasLanded,,10:26
+10:29,29 Nov,BRC,San Carlos de Bariloche,WJ3183,JetSMART,,
+10:29,29 Nov,BRC,San Carlos de Bariloche,JA3183,JetSMARTLanded,,10:13
+10:30,29 Nov,NQN,Neuquen,AR1653,Aerolineas Argentinas,,
+10:35,29 Nov,MDZ,Mendoza,JA3243,JetSMARTLanded,,10:18
+10:35,29 Nov,MDZ,Mendoza,WJ3243,JetSMART,,
+10:40,29 Nov,BRC,San Carlos de Bariloche,FO5239,FlybondiLanded,,09:46
+10:45,29 Nov,RGA,Rio Grande,AR1847,Aerolineas ArgentinasLanded,,10:41
+10:45,29 Nov,SLA,Salta,AR1463,Aerolineas ArgentinasLanded,,10:29
+10:55,29 Nov,SLA,Salta,FO5161,FlybondiLanded,,10:45
+11:00,29 Nov,GIG,Rio De Janeiro,G37650,Gol ,2Landed,10:32
+11:20,29 Nov,SCL,Santiago,WJ3011,JetSMART,,
+11:20,29 Nov,SCL,Santiago,JA3011,JetSMARTLanded,,11:14
+11:25,29 Nov,COR,Cordoba,AR1547,Aerolineas Argentinas ,1Landed,11:11
+11:35,29 Nov,USH,Ushuaia,AR1885,Aerolineas Argentinas ,2Landed,11:44
+11:40,29 Nov,PSS,Posadas,AR1765,Aerolineas Argentinas ,1Landed,11:22
+11:40,29 Nov,GRU,Sao Paulo,LA8140,LATAM Airlines ,1Estimated,11:36
+11:40,29 Nov,BRC,San Carlos de Bariloche,FO5241,FlybondiLanded,,11:58
+11:45,29 Nov,COR,Cordoba,AR1539,Aerolineas ArgentinasLanded,,11:28
+12:00,29 Nov,IGR,Iguazu,FO5103,FlybondiLanded,,11:49
+12:00,29 Nov,SCL,Santiago,AR1281,Aerolineas Argentinas ,1Landed,12:02
+12:05,29 Nov,FTE,El Calafate,AR1867,Aerolineas Argentinas ,3Landed,11:55
+12:10,29 Nov,MDZ,Mendoza,FO5051,FlybondiLanded,,12:15
+12:20,29 Nov,GRU,Sao Paulo,G37682,Gol ,2Landed,12:47
+12:25,29 Nov,CNQ,Corrientes,AR1771,Aerolineas Argentinas ,1Landed,12:21
+12:30,29 Nov,NQN,Neuquen,AR1651,Aerolineas Argentinas ,2Landed,12:36
+12:32,29 Nov,NQN,Neuquen,WJ3443,JetSMART,,
+12:32,29 Nov,NQN,Neuquen,JA3443,JetSMARTLanded,,12:08
+12:40,29 Nov,USH,Ushuaia,AR1843,Aerolineas ArgentinasLanded,,12:33
+12:40,29 Nov,MVD,Montevideo,AR1385,Aerolineas Argentinas ,1Landed,13:30
+12:50,29 Nov,BHI,Bahia Blanca,AR1621,Aerolineas Argentinas ,1Landed,13:26
+12:50,29 Nov,BRC,San Carlos de Bariloche,AR1683,Aerolineas Argentinas ,2Landed,12:43
+13:00,29 Nov,GRU,Sao Paulo,AR1241,Aerolineas Argentinas ,3Landed,13:04
+13:05,29 Nov,FTE,El Calafate,FO5551,FlybondiEstimated,,14:33
+13:10,29 Nov,UAQ,San Juan,AR1421,Aerolineas,,
+13:35,29 Nov,MDZ,Mendoza,AR1405,Aerolineas Argentinas ,2Landed,13:35
+13:40,29 Nov,USH,Ushuaia,FO5049,FlybondiLanded,,12:51
+13:48,29 Nov,USH,Ushuaia,WJ3460,JetSMART,,
+13:48,29 Nov,USH,Ushuaia,JA3460,JetSMARTLanded,,13:54
+13:50,29 Nov,MDZ,Mendoza,AR1409,Aerolineas ArgentinasLanded,,13:23
+13:50,29 Nov,PSS,Posadas,FO5121,FlybondiLanded,,13:11
+13:50,29 Nov,LUQ,San Luis,AR1431,Aerolineas ArgentinasLanded,,13:44
+14:00,29 Nov,PRA,Parana,AR1727,Aerolineas ArgentinasLanded,,14:02
+14:11,29 Nov,TUC,Tucuman,WJ3503,JetSMART,,
+14:11,29 Nov,TUC,Tucuman,JA3503,JetSMARTLanded,,14:06
+14:20,29 Nov,REL,Trelew,AR1870,Aerolineas ArgentinasLanded,,14:14
+14:21,29 Nov,FTE,El Calafate,WJ3492,JetSMART,,
+14:21,29 Nov,FTE,El Calafate,JA3492,JetSMARTLanded,,14:24
+14:25,29 Nov,ASU,Asuncion,AR1343,Aerolineas Argentinas ,3Landed,14:48
+14:35,29 Nov,BRC,San Carlos de Bariloche,AR1645,Aerolineas ArgentinasLanded,,14:17
+14:35,29 Nov,MDZ,Mendoza,AR1413,Aerolineas Argentinas ,2Landed,14:30
+14:35,29 Nov,RES,Resistencia,AR1781,Aerolineas Argentinas ,2Landed,14:10
+14:40,29 Nov,SLA,Salta,AR1457,Aerolineas ArgentinasLanded,,14:51
+14:45,29 Nov,GIG,Rio De Janeiro,AR1261,Aerolineas Argentinas ,1Landed,14:26
+14:52,29 Nov,CNQ,Corrientes,JA3621,JetSMARTLanded,,14:41
+14:52,29 Nov,CNQ,Corrientes,WJ3621,JetSMART,,
+14:55,29 Nov,MDZ,Mendoza,FO5053,FlybondiLanded,,13:58
+15:05,29 Nov,COR,Cordoba,AR1511,Aerolineas Argentinas ,1Landed,14:58
+15:10,29 Nov,IGR,Iguazu,FO5105,FlybondiLanded,,15:07
+15:15,29 Nov,GRU,Sao Paulo,LA8034,LATAM AirlinesLanded,,15:51
+15:25,29 Nov,TUC,Tucuman,AR1499,Aerolineas ArgentinasLanded,,15:15
+15:35,29 Nov,MDZ,Mendoza,AR1407,Aerolineas Argentinas ,1Landed,15:10
+15:35,29 Nov,GRU,Sao Paulo,AR1249,Aerolineas Argentinas ,4Landed,15:32
+16:00,29 Nov,LIM,Lima,LA2380,LATAM AirlinesLanded,,15:59
+16:00,29 Nov,SLA,Salta,AR1469,Aerolineas Argentinas ,1Landed,16:14
+16:05,29 Nov,MDZ,Mendoza,WJ3241,JetSMART,,
+16:05,29 Nov,MDZ,Mendoza,JA3241,JetSMARTLanded,,15:55
+16:10,29 Nov,MDQ,Mar Del Plata,AR1611,Aerolineas,,
+16:10,29 Nov,SDE,Santiago Del Estero,AR1495,Aerolineas Argentinas ,1Landed,16:06
+16:15,29 Nov,PMY,Puerto Madryn,FO5311,FlybondiLanded,,16:18
+16:20,29 Nov,SCL,Santiago,AR1285,Aerolineas Argentinas ,3Landed,16:20
+16:40,29 Nov,USH,Ushuaia,AR1899,Aerolineas Argentinas ,2Landed,16:59
+16:50,29 Nov,CNQ,Corrientes,FO5151,FlybondiLanded,,16:44
+16:55,29 Nov,CNQ,Corrientes,AR1773,Aerolineas ArgentinasLanded,,16:29
+16:55,29 Nov,PDP,Punta Del Este,AR1353,Aerolineas ArgentinasLanded,,17:15
+17:15,29 Nov,GRU,Sao Paulo,G37684,Gol ,2Landed,17:04
+17:15,29 Nov,CTC,Catamarca,AR1443,Aerolineas Argentinas ,1Estimated,18:34
+17:20,29 Nov,MDZ,Mendoza,AR1449,Aerolineas Argentinas ,2Landed,17:07
+17:25,29 Nov,COR,Cordoba,AR1551,Aerolineas Argentinas ,1Landed,18:00
+17:30,29 Nov,COR,Cordoba,FO5019,FlybondiLanded,,17:55
+17:30,29 Nov,SLA,Salta,AR1451,Aerolineas Argentinas ,1Landed,17:11
+17:35,29 Nov,IGR,Iguazu,AR1919,Aerolineas ArgentinasLanded,,17:19
+17:35,29 Nov,IRJ,La Rioja,AR1441,Aerolineas Argentinas ,1Estimated,18:41
+17:40,29 Nov,CRD,Comodoro Rivadavia,AR1839,Aerolineas Argentinas ,1Landed,17:22
+17:45,29 Nov,ASU,Asuncion,WJ3091,JetSMART,,
+17:45,29 Nov,ASU,Asuncion,JA3091,JetSMARTLanded,,17:31
+17:45,29 Nov,CPC,San Martin De Los Andes,AR1671,Aerolineas Argentinas ,1Landed,17:41
+17:50,29 Nov,TUC,Tucuman,AR1481,Aerolineas Argentinas ,2Landed,17:52
+17:50,29 Nov,BHI,Bahia Blanca,AR1625,Aerolineas ArgentinasLanded,,18:19
+18:00,29 Nov,MDZ,Mendoza,FO5057,FlybondiLanded,,18:16
+18:20,29 Nov,BRC,San Carlos de Bariloche,AR1685,Aerolineas Argentinas ,2Landed,18:09
+18:20,29 Nov,GIG,Rio De Janeiro,LA8142,LATAM AirlinesLanded,,18:02
+18:20,29 Nov,RES,Resistencia,AR1783,Aerolineas Argentinas ,2Landed,18:23
+18:30,29 Nov,PRA,Parana,AR1729,Aerolineas ArgentinasLanded,,18:13
+18:30,29 Nov,EQS,Esquel,AR1667,Aerolineas Argentinas ,1Estimated,20:15
+18:35,29 Nov,UAQ,San Juan,AR1423,Aerolineas Argentinas ,1Landed,18:49
+18:40,29 Nov,SCL,Santiago,AR1287,Aerolineas Argentinas ,1Landed,18:25
+18:50,29 Nov,BHI,Bahia Blanca,AR1629,Aerolineas ArgentinasLanded,,19:38
+19:00,29 Nov,SFN,Santa Fe,AR1723,Aerolineas ArgentinasEstimated,,20:00
+19:00,29 Nov,VDM,Viedma,AR1641,Aerolineas ArgentinasLanded,,18:39
+19:00,29 Nov,GIG,Rio De Janeiro,AR1269,Aerolineas Argentinas ,2Landed,18:56
+19:20,29 Nov,FLN,Florianopolis,G37692,Gol ,1Landed,18:36
+19:20,29 Nov,IGR,Iguazu,AR1747,Aerolineas ArgentinasLanded,,19:03
+19:20,29 Nov,MDZ,Mendoza,AR1503,Aerolineas Argentinas ,2Landed,19:16
+19:25,29 Nov,MDZ,Mendoza,AR1429,Aerolineas Argentinas,,
+19:45,29 Nov,MDQ,Mar Del Plata,AR1605,Aerolineas Argentinas ,2Landed,19:35
+19:45,29 Nov,CRD,Comodoro Rivadavia,AR1829,Aerolineas ArgentinasLanded,,19:25
+19:50,29 Nov,NQN,Neuquen,AR1657,Aerolineas Argentinas ,2Landed,20:31
+20:00,29 Nov,BRC,San Carlos de Bariloche,AR1698,Aerolineas ArgentinasLanded,,20:20
+20:20,29 Nov,FTE,El Calafate,AR1873,Aerolineas Argentinas ,1Landed,20:04
+20:21,29 Nov,EQS,Esquel,AR1045,Aerolineas,,
+20:30,29 Nov,MVD,Montevideo,AR1387,Aerolineas Argentinas ,2Landed,21:10
+20:35,29 Nov,UAQ,San Juan,AR1429,Aerolineas Argentinas ,2Landed,20:27
+20:40,29 Nov,REL,Trelew,AR1851,Aerolineas ArgentinasLanded,,20:23
+20:40,29 Nov,ROS,Rosario,AR1715,Aerolineas Argentinas ,3Landed,20:15
+20:45,29 Nov,USH,Ushuaia,AR1881,Aerolineas Argentinas ,1Landed,20:42
+21:00,29 Nov,SCL,Santiag,oH2535,Sky AirlineLanded,,20:49
+21:07,29 Nov,COR,Cordoba,WJ3269,JetSMART,,
+21:07,29 Nov,COR,Cordoba,JA3269,JetSMARTLanded,,20:54
+21:10,29 Nov,RGL,Rio Gallegos,AR1608,Aerolineas ArgentinasLanded,,21:24
+21:15,29 Nov,MDZ,Mendoza,AR1401,Aerolineas Argentinas ,2Landed,21:17
+21:20,29 Nov,GRU,Sao Paulo,LA8138,LATAM AirlinesLanded,,21:20
+21:25,29 Nov,PMY,Puerto Madryn,AR1857,Aerolineas ArgentinasLanded,,20:58
+21:30,29 Nov,RHD,Rio Hondo,AR1493,Aerolineas ArgentinasLanded,,21:34
+21:35,29 Nov,COR,Cordoba,AR1507,Aerolineas Argentinas ,1Landed,22:10
+21:45,29 Nov,JUJ,Jujuy,JA3665,JetSMARTLanded,,21:27
+21:45,29 Nov,JUJ,Jujuy,WJ3665,JetSMART,,
+21:50,29 Nov,GRU,Sao Paulo,AR1243,Aerolineas Argentinas ,1Landed,22:17
+21:55,29 Nov,RSA,Santa Rosa,AR1521,Aerolineas ArgentinasLanded,,22:45
+22:00,29 Nov,MDQ,Mar Del Plata,AR1601,Aerolineas Argentinas ,2Estimated,22:55
+22:05,29 Nov,JUJ,Jujuy,AR1475,Aerolineas ArgentinasLanded,,21:51
+22:10,29 Nov,IRJ,La Rioja,AR1444,Aerolineas,,
+22:25,29 Nov,MVD,Montevideo,AR1383,Aerolineas ArgentinasLanded,,22:05
+22:45,29 Nov,CRD,Comodoro Rivadavia,AR1823,Aerolineas Argentinas ,1Estimated,23:15
+22:45,29 Nov,RCU,Rio Cuarto,AR1527,Aerolineas ArgentinasLanded,,22:33
+22:45,29 Nov,POA,Porto Alegre,AR1233,Aerolineas Argentinas ,2Landed,22:14
+22:50,29 Nov,MDZ,Mendoza,FO5069,FlybondiEstimated,,23:37
+22:50,29 Nov,MDZ,Mendoza,AR1403,Aerolineas Argentinas ,2Estimated,23:32
+23:05,29 Nov,JUJ,Jujuy,AR1473,Aerolineas Argentinas ,1Landed,23:41
+23:10,29 Nov,SLA,Salta,AR1497,Aerolineas ArgentinasEstimated,,00:44
+23:14,29 Nov,SLA,Salta,WJ3495,JetSMART,,
+23:14,29 Nov,SLA,Salta,JA3495,JetSMARTLanded,,23:01
+23:25,29 Nov,PMY,Puerto Madryn,AR1859,Aerolineas ArgentinasEstimated,,23:10
+23:25,29 Nov,PSS,Posadas,AR1763,Aerolineas Argentinas ,1Landed,00:11
+23:25,29 Nov,NQN,Neuquen,AR1655,Aerolineas Argentinas ,1Estimated,00:50
+23:30,29 Nov,IGR,Iguazu,AR1741,Aerolineas Argentinas ,1Landed,23:51
+23:30,29 Nov,NQN,Neuquen,FO5309,FlybondiEstimated,,00:21
+23:35,29 Nov,COR,Cordoba,FO5017,FlybondiEstimated,,23:33
+00:05,30 Nov,MDZ,Mendoza,WJ3245,JetSMART,,
+00:05,30 Nov,MDZ,Mendoza,JA3245,JetSMARTLanded,,23:45
+00:40,30 Nov,SCL,Santiago,AR1283,Aerolineas Argentinas ,4Landed,00:45
+04:05,30 Nov,GRU,Sao Paulo,AR1247,Aerolineas Argentinas ,2Landed,04:11
+04:45,30 Nov,ASU,Asuncion,AR1341,Aerolineas Argentinas ,3Landed,04:21
+05:05,30 Nov,LIM,Lima,AR1365,Aerolineas Argentinas ,2Landed,04:40
+05:45,30 Nov,VVI,Santa Cruz,AR1369,Aerolineas ArgentinasLanded,,05:29
+07:30,30 Nov,BOG,Bogota,AR1361,Aerolineas Argentinas ,1Landed,07:14
+08:25,30 Nov,ROS,Rosario,AR1709,Aerolineas Argentinas ,3Landed,08:01
+08:40,30 Nov,REL,Trelew,AR1855,Aerolineas,,
+08:40,30 Nov,COR,Cordoba,AR1531,Aerolineas Argentinas ,3Landed,08:22
+08:45,30 Nov,MVD,Montevideo,AR1381,Aerolineas Argentinas ,1Landed,08:24
+08:55,30 Nov,SLA,Salta,AR1465,Aerolineas Argentinas ,1Landed,08:45
+08:55,30 Nov,MDZ,Mendoza,AR1417,Aerolineas Argentinas ,4Landed,08:39
+08:55,30 Nov,BHI,Bahia Blanca,AR1623,Aerolineas ArgentinasLanded,,08:48
+08:59,30 Nov,COR,Cordoba,FO5021,FlybondiLanded,,08:51
+09:05,30 Nov,TUC,Tucuman,FO5221,FlybondiLanded,,08:30
+09:30,30 Nov,NQN,Neuquen,AR1665,Aerolineas ArgentinasLanded,,09:19
+09:35,30 Nov,RGA,Rio Grande,AR1845,Aerolineas Argentinas ,2Landed,09:28
+09:35,30 Nov,GRU,Sao Paulo,LA8032,LATAM AirlinesLanded,,09:59
+09:36,30 Nov,COR,Cordoba,JA3267,JetSMARTLanded,,09:32
+09:45,30 Nov,JUJ,Jujuy,AR1471,Aerolineas Argentinas ,1Landed,10:05
+09:49,30 Nov,IGR,Iguazu,WJ3391,JetSMART,,
+09:49,30 Nov,IGR,Iguazu,JA3391,JetSMARTLanded,,09:45
+09:50,30 Nov,RES,Resistencia,AR1787,Aerolineas Argentinas ,1Landed,09:37
+09:55,30 Nov,IGR,Iguazu,FO5101,FlybondiLanded,,10:17
+09:55,30 Nov,SFN,Santa Fe,AR1721,Aerolineas Argentinas ,1Landed,09:48
+10:00,30 Nov,BRC,San Carlos de Bariloche,WJ3183,JetSMART,,
+10:00,30 Nov,BRC,San Carlos de Bariloche,JA3183,JetSMARTLanded,,10:09
+10:00,30 Nov,MDZ,Mendoza,FO5051,FlybondiLanded,,10:02
+10:05,30 Nov,CRD,Comodoro Rivadavia,AR1837,Aerolineas Argentinas ,1Landed,09:50
+10:05,30 Nov,COR,Cordoba,AR1547,Aerolineas Argentinas ,1Landed,10:28
+10:10,30 Nov,TUC,Tucuman,AR1489,Aerolineas ArgentinasLanded,,09:43
+10:15,30 Nov,MDQ,Mar Del Plata,AR1603,Aerolineas Argentinas ,2Landed,09:53
+10:20,30 Nov,MDZ,Mendoza,AR1427,Aerolineas Argentinas ,1Landed,10:30
+10:30,30 Nov,BRC,San Carlos de Bariloche,FO5239,FlybondiLanded,,09:56
+10:30,30 Nov,NQN,Neuquen,AR1653,Aerolineas Argentinas ,1Landed,10:21
+10:45,30 Nov,RGA,Rio Grande,AR1847,Aerolineas ArgentinasLanded,,10:51
+10:45,30 Nov,SLA,Salta,AR1463,Aerolineas ArgentinasLanded,,10:37
+10:48,30 Nov,SLA,Salta,WJ3493,JetSMART,,
+10:48,30 Nov,SLA,Salta,JA3493,JetSMARTEstimated,,12:42
+10:50,30 Nov,GIG,Rio De Janeiro,G37650,Gol ,2Landed,10:23
+10:55,30 Nov,IGR,Iguazu,AR1725,Aerolineas ArgentinasLanded,,10:33
+11:30,30 Nov,PSS,Posadas,AR1765,Aerolineas Argentinas ,1Landed,11:11
+11:40,30 Nov,GRU,Sao Paulo,LA8140,LATAM Airlines ,1Landed,11:33
+11:40,30 Nov,NQN,Neuquen,FO5301,FlybondiEstimated,,13:36
+11:45,30 Nov,COR,Cordoba,AR1539,Aerolineas,,
+11:50,30 Nov,JUJ,Jujuy,FO5193,FlybondiLanded,,11:25
+12:00,30 Nov,SCL,Santiago,AR1281,Aerolineas Argentinas ,1Landed,11:52
+12:05,30 Nov,FTE,El Calafate,AR1867,Aerolineas Argentinas ,3Landed,12:00
+12:20,30 Nov,GRU,Sao Paulo,G37682,Gol ,2Landed,12:27
+12:20,30 Nov,IGR,Iguazu,AR1733,Aerolineas Argentinas ,3Landed,11:57
+12:25,30 Nov,BRC,San Carlos de Bariloche,FO5241,FlybondiLanded,,12:14
+12:25,30 Nov,CNQ,Corrientes,AR1771,Aerolineas Argentinas ,1Landed,12:23
+12:25,30 Nov,NQN,Neuquen,AR1651,Aerolineas Argentinas ,2Landed,12:30
+12:40,30 Nov,MVD,Montevideo,AR1385,Aerolineas Argentinas ,1Estimated,13:36
+12:50,30 Nov,BHI,Bahia Blanca,AR1621,Aerolineas Argentinas ,1Landed,12:59
+12:55,30 Nov,FMA,Formosa,AR1769,Aerolineas,,
+13:00,30 Nov,MDZ,Mendoza,AR1409,Aerolineas ArgentinasLanded,,12:54
+13:00,30 Nov,GRU,Sao Paulo,AR1241,Aerolineas Argentinas ,4Landed,12:47
+13:15,30 Nov,UAQ,San Juan,AR1421,Aerolineas ArgentinasLanded,,13:27
+13:35,30 Nov,FTE,El Calafate,FO5551,FlybondiLanded,,12:08
+13:35,30 Nov,IGR,Iguazu,AR1743,Aerolineas Argentinas ,2Landed,13:07
+13:38,30 Nov,SLA,Salta,WJ3495,JetSMART,,
+13:38,30 Nov,SLA,Salta,JA3495,JetSMARTLanded,,13:13
+13:42,30 Nov,MDZ,Mendoza,WJ3241,JetSMART,,
+13:42,30 Nov,MDZ,Mendoza,JA3241,JetSMARTLanded,,13:22
+13:45,30 Nov,BRC,San Carlos de Bariloche,AR1683,Aerolineas Argentinas ,2Landed,13:30
+13:50,30 Nov,LUQ,San Luis,AR1431,Aerolineas ArgentinasLanded,,13:36
+13:55,30 Nov,SLA,Salta,AR1459,Aerolineas ArgentinasEstimated,,14:41
+14:05,30 Nov,USH,Ushuaia,FO5043,FlybondiLanded,,14:44
+14:10,30 Nov,CPC,San Martin De Los Andes,AR1673,Aerolineas Argentinas ,1Landed,14:13
+14:20,30 Nov,PMY,Puerto Madryn,FO5311,FlybondiLanded,,14:09
+14:35,30 Nov,RES,Resistencia,AR1781,Aerolineas Argentinas ,2Landed,14:16
+14:35,30 Nov,MDZ,Mendoza,AR1413,Aerolineas Argentinas ,2Landed,14:07
+14:40,30 Nov,SLA,Salta,AR1457,Aerolineas ArgentinasLanded,,14:25
+14:45,30 Nov,GIG,Rio De Janeiro,AR1261,Aerolineas Argentinas ,1Landed,14:19
+14:50,30 Nov,RLO,Santa Rose de Conlara,AR1437,Aerolineas ArgentinasLanded,,14:38
+14:55,30 Nov,MDQ,Mar Del Plata,AR1605,Aerolineas Argentinas,,
+15:05,30 Nov,ROS,Rosario,AR1717,Aerolineas Argentinas ,2Landed,15:10
+15:15,30 Nov,GRU,Sao Paulo,LA8034,LATAM AirlinesLanded,,15:39
+15:20,30 Nov,MDZ,Mendoza,FO5053,FlybondiLanded,,15:01
+15:20,30 Nov,COR,Cordoba,AR1511,Aerolineas Argentinas ,2Landed,14:58
+15:25,30 Nov,TUC,Tucuman,AR1499,Aerolineas ArgentinasLanded,,15:27
+15:35,30 Nov,GRU,Sao Paulo,AR1249,Aerolineas Argentinas ,3Landed,15:31
+15:35,30 Nov,PSS,Posadas,FO5123,FlybondiLanded,,15:21
+15:35,30 Nov,RGL,Rio Gallegos,AR1801,Aerolineas Argentinas ,1Landed,15:46
+15:40,30 Nov,AFA,San Rafael,AR1435,Aerolineas Argentinas ,1Landed,15:53
+15:45,30 Nov,BRC,San Carlos de Bariloche,FO5273,FlybondiLanded,,15:44
+16:00,30 Nov,COR,Cordoba,AR1543,Aerolineas ArgentinasLanded,,15:50
+16:00,30 Nov,LIM,Lima,LA2380,LATAM AirlinesEstimated,,15:55
+16:10,30 Nov,MDQ,Mar Del Plata,AR1601,Aerolineas Argentinas ,2Landed,16:00
+16:10,30 Nov,SDE,Santiago Del Estero,AR1495,Aerolineas Argentinas ,1Landed,16:06
+16:20,30 Nov,SCL,Santiago,AR1285,Aerolineas Argentinas ,3Landed,16:03
+16:25,30 Nov,TUC,Tucuman,AR1461,Aerolineas Argentinas ,1Landed,16:19
+16:40,30 Nov,USH,Ushuaia,AR1899,Aerolineas Argentinas ,1Landed,16:55
+16:40,30 Nov,MDZ,Mendoza,AR1449,Aerolineas Argentinas ,1Landed,16:53
+16:55,30 Nov,PDP,Punta Del Este,AR1353,Aerolineas ArgentinasLanded,,17:04
+16:55,30 Nov,CNQ,Corrientes,AR1773,Aerolineas ArgentinasLanded,,16:38
+17:00,30 Nov,CRD,Comodoro Rivadavia,AR1839,Aerolineas Argentinas ,1Landed,17:08
+17:00,30 Nov,COR,Cordoba,AR1551,Aerolineas Argentinas ,1Landed,16:57
+17:00,30 Nov,IGR,Iguazu,FO5105,FlybondiLanded,,16:45
+17:15,30 Nov,GRU,Sao Paulo,G37684,Gol ,2Landed,17:12
+17:25,30 Nov,FMA,Formosa,AR1761,Aerolineas ArgentinasLanded,,17:24
+17:25,30 Nov,CTC,Catamarca,AR1444,Aerolineas ArgentinasLanded,,17:01
+17:30,30 Nov,MDZ,Mendoza,AR1503,Aerolineas Argentinas ,2Landed,18:09
+17:40,30 Nov,MDZ,Mendoza,FO5065,FlybondiEstimated,,18:36
+17:45,30 Nov,CPC,San Martin De Los Andes,AR1671,Aerolineas Argentinas ,1Landed,17:56
+17:50,30 Nov,TUC,Tucuman,AR1481,Aerolineas Argentinas ,2Landed,17:29
+18:00,30 Nov,IGR,Iguazu,AR1731,Aerolineas Argentinas ,2Landed,18:00
+18:10,30 Nov,BRC,San Carlos de Bariloche,AR1685,Aerolineas Argentinas ,2Landed,17:50
+18:10,30 Nov,MDQ,Mar Del Plata,AR1609,Aerolineas Argentinas ,1Landed,17:52
+18:20,30 Nov,RES,Resistencia,AR1783,Aerolineas Argentinas ,2Landed,18:28
+18:20,30 Nov,GIG,Rio De Janeiro,LA8142,LATAM AirlinesLanded,,18:17
+18:24,30 Nov,EZE,Buenos Aires,AR1042,Aerolineas ArgentinasLanded,,18:25
+18:30,30 Nov,EQS,Esquel,AR1667,Aerolineas Argentinas ,1Estimated,19:24
+18:35,30 Nov,PRA,Parana,AR1729,Aerolineas ArgentinasLanded,,18:20
+18:40,30 Nov,BHI,Bahia Blanca,AR1629,Aerolineas ArgentinasEstimated,,20:00
+18:40,30 Nov,UAQ,San Juan,AR1423,Aerolineas Argentinas ,1Landed,18:41
+18:40,30 Nov,SCL,Santiago,AR1287,Aerolineas Argentinas ,1Landed,18:33
+18:55,30 Nov,PSS,Posadas,FO5121,FlybondiLanded,,18:43
+19:00,30 Nov,FLN,Florianopolis,G37692,Gol ,1Landed,18:54
+19:00,30 Nov,SFN,Santa Fe,AR1723,Aerolineas ArgentinasLanded,,19:45
+19:20,30 Nov,MDZ,Mendoza,AR1415,Aerolineas Argentinas ,1Landed,19:07
+19:25,30 Nov,BRC,San Carlos de Bariloche,AR1677,Aerolineas ArgentinasEstimated,,20:34
+19:30,30 Nov,MDZ,Mendoza,FO5063,FlybondiLanded,,19:17
+19:30,30 Nov,RGL,Rio Gallegos,AR1803,Aerolineas Argentinas ,1Landed,19:35
+19:35,30 Nov,CRD,Comodoro Rivadavia,AR1829,Aerolineas ArgentinasLanded,,19:56
+19:40,30 Nov,COR,Cordoba,WJ3269,JetSMART,,
+19:40,30 Nov,COR,Cordoba,JA3269,JetSMARTLanded,,19:49
+19:50,30 Nov,CNQ,Corrientes,FO5153,FlybondiLanded,,19:52
+19:50,30 Nov,REL,Trelew,AR1851,Aerolineas ArgentinasLanded,,20:25
+19:55,30 Nov,NQN,Neuquen,AR1657,Aerolineas Argentinas ,2Landed,20:07
+19:55,30 Nov,TUC,Tucuman,AR1487,Aerolineas Argentinas ,1Estimated,21:14
+20:00,30 Nov,MDQ,Mar Del Plata,AR1611,Aerolineas ArgentinasLanded,,19:59
+20:10,30 Nov,NQN,Neuquen,FO5305,FlybondiLanded,,20:09
+20:20,30 Nov,FTE,El Calafate,AR1873,Aerolineas Argentinas ,1Landed,20:18
+20:25,30 Nov,BRC,San Carlos de Bariloche,AR1640,Aerolineas ArgentinasLanded,,20:22
+20:25,30 Nov,IRJ,La Rioja,AR1441,Aerolineas Argentinas ,1Landed,21:00
+20:30,30 Nov,COR,Cordoba,FO5019,FlybondiLanded,,20:14
+20:50,30 Nov,SCL,Santiag,oH2535,Sky AirlineLanded,,20:57
+20:50,30 Nov,REL,Trelew,AR1882,Aerolineas ArgentinasLanded,,20:50
+20:50,30 Nov,CRD,Comodoro Rivadavia,AR1827,Aerolineas Argentinas ,1Estimated,23:20
+21:10,30 Nov,GRU,Sao Paulo,LA8138,LATAM AirlinesLanded,,21:45
+21:15,30 Nov,BRC,San Carlos de Bariloche,AR1691,Aerolineas Argentinas ,1Landed,21:38
+21:25,30 Nov,PMY,Puerto Madryn,AR1857,Aerolineas ArgentinasLanded,,22:15
+21:25,30 Nov,CTC,Catamarca,AR1443,Aerolineas Argentinas ,1Landed,21:48
+21:30,30 Nov,SCL,Santiago,JA1007,JetSMARTEstimated,,22:48
+21:35,30 Nov,COR,Cordoba,AR1507,Aerolineas Argentinas ,1Estimated,22:24
+21:40,30 Nov,RSA,Santa Rosa,AR1521,Aerolineas ArgentinasLanded,,21:29
+21:44,30 Nov,MDZ,Mendoza,WJ3243,JetSMART,,
+21:44,30 Nov,MDZ,Mendoza,JA3243,JetSMARTEstimated,,22:56
+21:50,30 Nov,GRU,Sao Paulo,AR1243,Aerolineas Argentinas ,1Landed,22:19
+21:54,30 Nov,COR,Cordoba,WJ3271,JetSMART,,
+21:54,30 Nov,COR,Cordoba,JA3271,JetSMARTLanded,,21:41
+21:55,30 Nov,USH,Ushuaia,AR1887,Aerolineas Argentinas ,2Estimated,22:54
+22:20,30 Nov,FTE,El Calafate,AR1891,Aerolineas ArgentinasLanded,,22:27
+22:25,30 Nov,MVD,Montevideo,AR1383,Aerolineas ArgentinasLanded,,23:00
+22:30,30 Nov,BRC,San Carlos de Bariloche,AR1639,Aerolineas Argentinas ,1Landed,23:06
+22:35,30 Nov,MDZ,Mendoza,AR1403,Aerolineas Argentinas ,2Estimated,23:33
+22:40,30 Nov,LUQ,San Luis,AR1433,Aerolineas ArgentinasLanded,,22:41
+22:45,30 Nov,UAQ,San Juan,AR1425,Aerolineas Argentinas,,
+22:50,30 Nov,USH,Ushuaia,AR1880,Aerolineas Argentinas ,1Landed,22:45
+23:05,30 Nov,COR,Cordoba,AR1501,Aerolineas Argentinas ,1Estimated,23:52
+23:05,30 Nov,JUJ,Jujuy,AR1473,Aerolineas Argentinas ,1Estimated,00:46
+23:10,30 Nov,IRJ,La Rioja,AR1903,Aerolineas,,
+23:10,30 Nov,SLA,Salta,AR1497,Aerolineas ArgentinasLanded,,23:42
+23:25,30 Nov,SDE,Santiago Del Estero,AR1491,Aerolineas Argentinas ,1Landed,23:58
+23:25,30 Nov,FTE,El Calafate,AR1875,Aerolineas Argentinas ,2Landed,23:49
+23:25,30 Nov,PSS,Posadas,AR1763,Aerolineas Argentinas ,1Estimated,00:43
+23:25,30 Nov,IGR,Iguazu,AR1741,Aerolineas Argentinas ,1Landed,23:46
+23:25,30 Nov,NQN,Neuquen,AR1655,Aerolineas Argentinas ,1Landed,23:38
+23:30,30 Nov,MDQ,Mar Del Plata,AR1607,Aerolineas ArgentinasEstimated,,00:29
+00:16,01 Dec,NQN,Neuquen,WJ3449,JetSMART,,
+00:16,01 Dec,NQN,Neuquen,JA3449,JetSMARTLanded,,00:08
+00:40,01 Dec,SCL,Santiago,AR1283,Aerolineas Argentinas,,
+00:55,01 Dec,USH,Ushuaia,AR1889,Aerolineas Argentinas ,3Estimated,00:52
+01:19,01 Dec,IGR,Iguazu,WJ3399,JetSMART,,
+01:19,01 Dec,IGR,Iguazu,JA3399,JetSMARTLanded,,01:19
+03:20,01 Dec,GIG,Rio De Janeiro,AR1263,Aerolineas Argentinas ,3Estimated,04:30
+04:05,01 Dec,GRU,Sao Paulo,AR1247,Aerolineas Argentinas ,2Estimated,05:20
+04:06,01 Dec,EZE,Buenos Aires,AR1027,Aerolineas ArgentinasLanded,,03:45
+04:45,01 Dec,CRD,Comodoro Rivadavia,AR1825,Aerolineas Argentinas ,1Landed,05:11
+04:45,01 Dec,ASU,Asuncion,AR1341,Aerolineas Argentinas ,3Landed,04:37
+05:05,01 Dec,LIM,Lima,AR1365,Aerolineas Argentinas ,2Landed,05:03
+05:25,01 Dec,SSA,Salvador,AR1221,Aerolineas Argentinas ,1Landed,05:28
+05:45,01 Dec,VVI,Santa Cruz,AR1369,Aerolineas ArgentinasLanded,,04:51
+07:30,01 Dec,BOG,Bogota,AR1361,Aerolineas Argentinas ,1Landed,07:17
+08:25,01 Dec,ROS,Rosario,AR1709,Aerolineas Argentinas ,3Landed,07:51
+08:40,01 Dec,REL,Trelew,AR1855,Aerolineas ArgentinasLanded,,08:47
+08:40,01 Dec,COR,Cordoba,AR1531,Aerolineas Argentinas ,3Landed,08:22
+08:45,01 Dec,MVD,Montevideo,AR1381,Aerolineas Argentinas ,1Landed,08:26
+08:55,01 Dec,MDZ,Mendoza,AR1417,Aerolineas Argentinas ,4Landed,08:52
+09:05,01 Dec,MDZ,Mendoza,WJ3241,JetSMART,,
+09:05,01 Dec,MDZ,Mendoza,JA3241,JetSMARTLanded,,09:15
+09:05,01 Dec,SCL,Santiag,oH2533,Sky AirlineLanded,,09:25
+09:10,01 Dec,BHI,Bahia Blanca,AR1623,Aerolineas ArgentinasLanded,,09:20
+09:15,01 Dec,SLA,Salta,AR1465,Aerolineas Argentinas ,1Landed,08:37
+09:16,01 Dec,COR,Cordoba,WJ3267,JetSMART,,
+09:16,01 Dec,COR,Cordoba,JA3267,JetSMARTLanded,,09:03
+09:30,01 Dec,NQN,Neuquen,AR1665,Aerolineas ArgentinasLanded,,09:51
+09:35,01 Dec,RGA,Rio Grande,AR1845,Aerolineas Argentinas ,2Landed,09:38
+09:40,01 Dec,CRD,Comodoro Rivadavia,AR1837,Aerolineas Argentinas ,1Landed,09:34
+09:40,01 Dec,POA,Porto Alegre,AR1235,Aerolineas Argentinas ,2Landed,09:29
+09:45,01 Dec,JUJ,Jujuy,AR1471,Aerolineas Argentinas ,1Landed,09:42
+09:55,01 Dec,SFN,Santa Fe,AR1721,Aerolineas Argentinas ,1Landed,09:45
+10:00,01 Dec,GRU,Sao Paulo,LA8032,LATAM AirlinesLanded,,09:55
+10:05,01 Dec,MDQ,Mar Del Plata,AR1603,Aerolineas Argentinas ,2Landed,10:50
+10:05,01 Dec,COR,Cordoba,AR1547,Aerolineas Argentinas ,1Landed,10:09
+10:10,01 Dec,TUC,Tucuman,AR1489,Aerolineas ArgentinasLanded,,10:12
+10:15,01 Dec,TUC,Tucuman,FO5221,FlybondiLanded,,09:09
+10:20,01 Dec,PSS,Posadas,AR1767,Aerolineas ArgentinasLanded,,10:04
+10:29,01 Dec,BRC,San Carlos de Bariloche,WJ3183,JetSMART,,
+10:29,01 Dec,BRC,San Carlos de Bariloche,JA3183,JetSMARTLanded,,10:45
+10:30,01 Dec,NQN,Neuquen,AR1653,Aerolineas Argentinas ,1Landed,10:21
+10:35,01 Dec,MDZ,Mendoza,FO5051,FlybondiLanded,,09:58
+10:40,01 Dec,CWB,Curitiba,AR1229,Aerolineas Argentinas ,1Landed,10:16
+10:45,01 Dec,RGA,Rio Grande,AR1847,Aerolineas,,
+10:45,01 Dec,SLA,Salta,AR1463,Aerolineas ArgentinasLanded,,10:56
+10:59,01 Dec,IGR,Iguazu,JA3391,JetSMARTLanded,,11:01
+10:59,01 Dec,IGR,Iguazu,WJ3391,JetSMART,,
+11:05,01 Dec,IGR,Iguazu,FO5101,FlybondiLanded,,10:25
+11:10,01 Dec,MDZ,Mendoza,AR1713,Aerolineas Argentinas ,1Landed,11:09
+11:20,01 Dec,GIG,Rio De Janeiro,G37650,Gol ,2Landed,11:04
+11:20,01 Dec,BRC,San Carlos de Bariloche,FO5239,FlybondiLanded,,11:31
+11:20,01 Dec,PSS,Posadas,AR1765,Aerolineas Argentinas ,1Landed,11:14
+11:30,01 Dec,NQN,Neuquen,FO5301,Aero FlightOps,,
+11:35,01 Dec,USH,Ushuaia,AR1885,Aerolineas Argentinas ,2Landed,11:41
+11:40,01 Dec,GRU,Sao Paulo,LA8140,LATAM Airlines ,1Estimated,12:30
+11:40,01 Dec,RES,Resistencia,AR1787,Aerolineas Argentinas ,1Landed,11:24
+11:45,01 Dec,PMY,Puerto Madryn,FO5311,FlybondiLanded,,11:36
+11:50,01 Dec,COR,Cordoba,AR1539,Aerolineas,,
+11:59,01 Dec,FTE,El Calafate,WJ3490,JetSMART,,
+11:59,01 Dec,FTE,El Calafate,JA3490,JetSMARTLanded,,12:20
+12:00,01 Dec,SCL,Santiago,AR1281,Aerolineas Argentinas ,1Landed,12:26
+12:10,01 Dec,TUC,Tucuman,AR1483,Aerolineas Argentinas ,2Estimated,12:43
+12:20,01 Dec,BSB,Brasilia,AR1217,Aerolineas Argentinas,,
+12:25,01 Dec,CNQ,Corrientes,AR1771,Aerolineas Argentinas,,
+12:25,01 Dec,UAQ,San Juan,AR1421,Aerolineas ArgentinasLanded,,12:34
+12:35,01 Dec,FTE,El Calafate,AR1867,Aerolineas Argentinas ,3Landed,12:47
+12:40,01 Dec,MVD,Montevideo,AR1385,Aerolineas Argentinas ,1Estimated,13:35
+12:50,01 Dec,PSS,Posadas,AR1755,Aerolineas ArgentinasLanded,,13:08
+12:50,01 Dec,BHI,Bahia Blanca,AR1621,Aerolineas Argentinas ,1Landed,12:53
+12:55,01 Dec,FMA,Formosa,AR1769,Aerolineas ArgentinasLanded,,13:04
+12:55,01 Dec,IGR,Iguazu,AR1733,Aerolineas Argentinas ,3Landed,12:42
+13:00,01 Dec,JUJ,Jujuy,AR1475,Aerolineas ArgentinasLanded,,12:59
+13:00,01 Dec,GRU,Sao Paulo,AR1241,Aerolineas Argentinas,,
+13:30,01 Dec,REL,Trelew,AR1883,Aerolineas ArgentinasEstimated,,14:32
+13:40,01 Dec,GRU,Sao Paulo,G37682,Gol ,2Estimated,14:29
+13:40,01 Dec,USH,Ushuaia,FO5043,FlybondiLanded,,14:00
+13:50,01 Dec,MDQ,Mar Del Plata,AR1605,Aerolineas Argentinas,,
+13:50,01 Dec,LUQ,San Luis,AR1431,Aerolineas ArgentinasLanded,,13:47
+13:55,01 Dec,IGR,Iguazu,AR1743,Aerolineas Argentinas ,2Landed,13:41
+13:55,01 Dec,BRC,San Carlos de Bariloche,AR1683,Aerolineas Argentinas ,2Landed,14:05
+14:00,01 Dec,PRA,Parana,AR1727,Aerolineas,,
+14:05,01 Dec,IGR,Iguazu,FO5103,FlybondiLanded,,14:10
+14:09,01 Dec,IGR,Iguazu,WJ3397,JetSMART,,
+14:09,01 Dec,IGR,Iguazu,JA3397,JetSMARTLanded,,14:26
+14:25,01 Dec,ASU,Asuncion,AR1343,Aerolineas Argentinas ,3Landed,14:29
+14:35,01 Dec,RES,Resistencia,AR1781,Aerolineas Argentinas ,2Landed,14:47
+14:40,01 Dec,SLA,Salta,AR1457,Aerolineas ArgentinasLanded,,14:42
+14:45,01 Dec,BRC,San Carlos de Bariloche,AR1645,Aerolineas ArgentinasEstimated,,16:37
+14:45,01 Dec,GIG,Rio De Janeiro,AR1261,Aerolineas Argentinas ,1Landed,14:37
+14:51,01 Dec,CNQ,Corrientes,WJ3621,JetSMART,,
+15:20,01 Dec,CPC,San Martin De Los Andes,WJ3551,JetSMART,,
+15:20,01 Dec,CPC,San Martin De Los Andes,JA3551,JetSMARTLanded,,15:38
+15:25,01 Dec,COR,Cordoba,AR1511,Aerolineas Argentinas ,1Landed,15:07
+15:25,01 Dec,TUC,Tucuman,AR1499,Aerolineas,,
+15:35,01 Dec,RGL,Rio Gallegos,AR1801,Aerolineas Argentinas ,1Landed,15:52
+15:40,01 Dec,GRU,Sao Paulo,LA8034,LATAM AirlinesLanded,,15:57
+15:40,01 Dec,AFA,San Rafael,AR1435,Aerolineas Argentinas,,
+16:00,01 Dec,LIM,Lima,LA2380,LATAM AirlinesLanded,,16:09
+16:05,01 Dec,BRC,San Carlos de Bariloche,AR1698,Aerolineas ArgentinasLanded,,16:13
+16:05,01 Dec,COR,Cordoba,AR1513,Aerolineas,,
+16:10,01 Dec,SDE,Santiago Del Estero,AR1495,Aerolineas Argentinas,,
+16:16,01 Dec,ROS,Rosario,AR1539,Aerolineas ArgentinasLanded,,16:16
+16:20,01 Dec,SCL,Santiago,AR1285,Aerolineas Argentinas ,3Estimated,18:15
+16:25,01 Dec,SLA,Salta,FO5169,FlybondiEstimated,,18:22
+16:35,01 Dec,FTE,El Calafate,AR1696,Aerolineas Argentinas ,1Landed,17:08
+16:40,01 Dec,MDZ,Mendoza,AR1449,Aerolineas Argentinas ,1Landed,16:33
+16:50,01 Dec,COR,Cordoba,FO5023,FlybondiLanded,,17:03
+16:55,01 Dec,CNQ,Corrientes,AR1773,Aerolineas,,
+16:55,01 Dec,PDP,Punta Del Este,AR1353,Aerolineas,,
+17:00,01 Dec,COR,Cordoba,AR1551,Aerolineas Argentinas,,
+17:15,01 Dec,GRU,Sao Paulo,G37684,Gol ,2Landed,17:33
+17:39,01 Dec,ASU,Asuncion,WJ3091,JetSMART,,
+17:40,01 Dec,MDZ,Mendoza,AR1503,Aerolineas Argentinas,,
+17:40,01 Dec,CRD,Comodoro Rivadavia,AR1839,Aerolineas Argentinas,,
+17:45,01 Dec,CPC,San Martin De Los Andes,AR1671,Aerolineas Argentinas,,
+17:45,01 Dec,TUC,Tucuman,AR1481,Aerolineas Argentinas,,
+17:50,01 Dec,ROS,Rosario,AR1717,Aerolineas Argentinas,,
+17:50,01 Dec,IRJ,La Rioja,AR1441,Aerolineas Argentinas,,
+18:00,01 Dec,GIG,Rio De Janeiro,LA8142,LATAM AirlinesEstimated,,19:18
+18:00,01 Dec,BRC,San Carlos de Bariloche,AR1685,Aerolineas Argentinas,,
+18:10,01 Dec,IGR,Iguazu,AR1757,Aerolineas,,
+18:15,01 Dec,CRD,Comodoro Rivadavia,FO5503,FlybondiLanded,,18:05
+18:20,01 Dec,FLN,Florianopolis,G37692,Gol ,1Landed,19:08
+18:20,01 Dec,RES,Resistencia,AR1783,Aerolineas Argentinas,,
+18:30,01 Dec,PRA,Parana,AR1729,Aerolineas,,
+18:30,01 Dec,UAQ,San Juan,AR1423,Aerolineas Argentinas,,
+18:35,01 Dec,EQS,Esquel,AR1667,Aerolineas Argentinas,,
+18:40,01 Dec,SCL,Santiago,AR1287,Aerolineas Argentinas,,
+18:48,01 Dec,USH,Ushuaia,WJ3460,JetSMART,,
+18:48,01 Dec,USH,Ushuaia,JA3460,JetSMARTLanded,,18:54
+18:50,01 Dec,BHI,Bahia Blanca,AR1629,Aerolineas ArgentinasEstimated,,20:02
+19:00,01 Dec,SFN,Santa Fe,AR1723,Aerolineas ArgentinasEstimated,,20:04
+19:00,01 Dec,GIG,Rio De Janeiro,AR1269,Aerolineas Argentinas,,
+19:10,01 Dec,MDQ,Mar Del Plata,AR1601,Aerolineas Argentinas ,2Estimated,20:23
+19:14,01 Dec,COR,Cordoba,WJ3269,JetSMART,,
+19:25,01 Dec,RGL,Rio Gallegos,AR1803,Aerolineas Argentinas,,
+19:40,01 Dec,USH,Ushuaia,AR1831,Aerolineas,,
+19:45,01 Dec,CRD,Comodoro Rivadavia,AR1829,Aerolineas ArgentinasLanded,,19:43
+19:45,01 Dec,NQN,Neuquen,AR1657,Aerolineas Argentinas,,
+19:50,01 Dec,GRU,Sao Paulo,AR1245,Aerolineas Argentinas ,1Landed,20:28
+19:55,01 Dec,TUC,Tucuman,AR1487,Aerolineas Argentinas,,
+20:00,01 Dec,BRC,San Carlos de Bariloche,AR1677,Aerolineas,,
+20:15,01 Dec,IGR,Iguazu,AR1737,Aerolineas Argentinas,,
+20:18,01 Dec,BRC,San Carlos de Bariloche,JA3187,JetSMARTEstimated,,22:36
+20:20,01 Dec,FTE,El Calafate,AR1873,Aerolineas Argentinas ,1Landed,20:19
+20:25,01 Dec,MDZ,Mendoza,WJ3243,JetSMART,,
+20:30,01 Dec,MVD,Montevideo,AR1387,Aerolineas Argentinas,,
+20:35,01 Dec,ROS,Rosario,AR1715,Aerolineas Argentinas,,
+20:50,01 Dec,SCL,Santiag,oH2535,Sky AirlineLanded,,20:44
+20:55,01 Dec,REL,Trelew,AR1851,Aerolineas ArgentinasEstimated,,22:25
+20:55,01 Dec,FMA,Formosa,AR1761,Aerolineas,,
+21:05,01 Dec,MDZ,Mendoza,AR1401,Aerolineas Argentinas ,2Landed,21:13
+21:10,01 Dec,GRU,Sao Paulo,LA8138,LATAM AirlinesLanded,,21:18
+21:25,01 Dec,PMY,Puerto Madryn,AR1857,Aerolineas,,
+21:25,01 Dec,RGL,Rio Gallegos,AR1608,Aerolineas ArgentinasLanded,,21:29
+21:30,01 Dec,SCL,Santiago,JA1007,JetSMARTEstimated,,22:50
+21:35,01 Dec,COR,Cordoba,AR1507,Aerolineas Argentinas,,
+21:50,01 Dec,GRU,Sao Paulo,AR1243,Aerolineas Argentinas,,
+21:55,01 Dec,RSA,Santa Rosa,AR1521,Aerolineas,,
+22:20,01 Dec,IRJ,La Rioja,AR1444,Aerolineas,,
+22:25,01 Dec,IGR,Iguazu,AR1735,Aerolineas Argentinas ,2Landed,23:02
+22:25,01 Dec,MVD,Montevideo,AR1383,Aerolineas,,
+22:30,01 Dec,SLA,Salta,AR1455,Aerolineas Argentinas ,2Estimated,00:31
+22:32,01 Dec,LUQ,San Luis,AR1057,Aerolineas ArgentinasLanded,,22:33
+22:35,01 Dec,BRC,San Carlos de Bariloche,AR1639,Aerolineas Argentinas ,1Estimated,01:01
+22:40,01 Dec,LUQ,San Luis,AR1433,Aerolineas ArgentinasLanded,,23:21
+22:40,01 Dec,UAQ,San Juan,AR1425,Aerolineas Argentinas ,1Estimated,23:32
+22:45,01 Dec,CRD,Comodoro Rivadavia,AR1823,Aerolineas Argentinas ,1Landed,22:38
+22:45,01 Dec,RCU,Rio Cuarto,AR1527,Aerolineas,,
+22:45,01 Dec,GRU,Sao Paulo,AR1239,Aerolineas Argentinas,,
+22:50,01 Dec,MDZ,Mendoza,AR1403,Aerolineas Argentinas,,
+23:05,01 Dec,COR,Cordoba,AR1501,Aerolineas Argentinas,,
+23:09,01 Dec,NQN,Neuquen,WJ3447,JetSMART,,
+23:25,01 Dec,IGR,Iguazu,AR1741,Aerolineas Argentinas,,
+23:25,01 Dec,NQN,Neuquen,AR1655,Aerolineas Argentinas ,1Landed,23:44
+23:25,01 Dec,FTE,El Calafate,AR1877,Aerolineas,,
+23:25,01 Dec,PSS,Posadas,AR1763,Aerolineas Argentinas,,
+23:30,01 Dec,SLA,Salta,AR1497,Aerolineas ArgentinasLanded,,00:01
+23:35,01 Dec,MDQ,Mar Del Plata,AR1611,Aerolineas,,
+23:35,01 Dec,EZE,Buenos Aires,AR1046,Aerolineas ArgentinasLanded,,23:36
+00:19,02 Dec,COR,Cordoba,WJ3273,JetSMART,,
+00:25,02 Dec,FTE,El Calafate,AR1849,Aerolineas ArgentinasEstimated,,02:45
+00:32,02 Dec,EZE,Buenos Aires,AR1049,Aerolineas ArgentinasLanded,,00:33
+00:40,02 Dec,SCL,Santiago,AR1283,Aerolineas Argentinas ,4Estimated,01:58
+01:10,02 Dec,MDZ,Mendoza,FO5059,FlybondiEstimated,,02:18
+01:20,02 Dec,MDZ,Mendoza,WJ3249,JetSMART,,
+01:50,02 Dec,IGR,Iguazu,AR1751,Aerolineas Argentinas ,1Estimated,03:01
+03:20,02 Dec,GIG,Rio De Janeiro,AR1263,Aerolineas Argentinas ,3Estimated,04:42
+03:35,02 Dec,BRC,San Carlos de Bariloche,AR1687,Aerolineas Argentinas ,2Landed,04:00
+03:40,02 Dec,CRD,Comodoro Rivadavia,AR1825,Aerolineas Argentinas ,1Estimated,04:32
+04:05,02 Dec,GRU,Sao Paulo,AR1247,Aerolineas Argentinas ,2Landed,04:34
+04:45,02 Dec,ASU,Asuncion,AR1341,Aerolineas Argentinas ,3Landed,05:23
+05:05,02 Dec,LIM,Lima,AR1365,Aerolineas Argentinas ,2Estimated,06:23
+05:20,02 Dec,FLN,Florianopolis,FO5951,FlybondiLanded,,05:44
+05:45,02 Dec,VVI,Santa Cruz,AR1369,Aerolineas ArgentinasLanded,,05:59
+06:10,02 Dec,BRC,San Carlos de Bariloche,FO5277,FlybondiLanded,,06:14
+07:30,02 Dec,BOG,Bogota,AR1361,Aerolineas Argentinas ,1Estimated,08:24
+07:50,02 Dec,SCL,Santiago,JA1003,JetSMARTEstimated,,09:45
+08:25,02 Dec,ROS,Rosario,AR1709,Aerolineas Argentinas ,3Landed,08:14
+08:40,02 Dec,REL,Trelew,AR1855,Aerolineas ArgentinasLanded,,08:28
+08:40,02 Dec,COR,Cordoba,AR1531,Aerolineas Argentinas ,3Landed,08:22
+08:45,02 Dec,MVD,Montevideo,AR1381,Aerolineas Argentinas ,1Landed,08:30
+08:56,02 Dec,COR,Cordoba,WJ3271,JetSMART,,
+08:56,02 Dec,COR,Cordoba,JA3271,JetSMARTLanded,,08:35
+09:00,02 Dec,SLA,Salta,AR1465,Aerolineas Argentinas ,1Landed,08:42
+09:00,02 Dec,MDZ,Mendoza,AR1417,Aerolineas Argentinas ,4Landed,08:55
+09:10,02 Dec,SCL,Santiag,oH2533,Sky AirlineLanded,,09:16
+09:10,02 Dec,BHI,Bahia Blanca,AR1623,Aerolineas ArgentinasLanded,,09:01
+09:16,02 Dec,TUC,Tucuman,WJ3501,JetSMART,,
+09:16,02 Dec,TUC,Tucuman,JA3501,JetSMARTEstimated,,08:57
+09:19,02 Dec,IGR,Iguazu,WJ3391,JetSMART,,
+09:19,02 Dec,IGR,Iguazu,JA3391,JetSMARTLanded,,09:57
+09:30,02 Dec,NQN,Neuquen,AR1665,Aerolineas ArgentinasLanded,,09:24
+09:35,02 Dec,RGA,Rio Grande,AR1845,Aerolineas Argentinas ,2Landed,09:44
+09:40,02 Dec,POA,Porto Alegre,AR1235,Aerolineas Argentinas ,2Landed,09:54
+09:40,02 Dec,IGR,Iguazu,FO5101,FlybondiLanded,,09:21
+09:45,02 Dec,JUJ,Jujuy,AR1471,Aerolineas Argentinas ,1Landed,10:02
+09:50,02 Dec,RES,Resistencia,AR1787,Aerolineas Argentinas ,1Landed,09:37
+09:55,02 Dec,BRC,San Carlos de Bariloche,FO5237,FlybondiLanded,,08:46
+09:55,02 Dec,SFN,Santa Fe,AR1721,Aerolineas Argentinas ,1Landed,09:41
+10:00,02 Dec,BRC,San Carlos de Bariloche,AR1631,Aerolineas ArgentinasLanded,,10:04
+10:05,02 Dec,COR,Cordoba,AR1547,Aerolineas Argentinas ,2Landed,10:32
+10:10,02 Dec,IGR,Iguazu,AR1725,Aerolineas ArgentinasLanded,,10:21
+10:10,02 Dec,TUC,Tucuman,AR1489,Aerolineas ArgentinasLanded,,09:51
+10:15,02 Dec,MDQ,Mar Del Plata,AR1603,Aerolineas Argentinas ,2Landed,10:14
+10:30,02 Dec,NQN,Neuquen,AR1653,Aerolineas Argentinas ,1Landed,10:09
+10:35,02 Dec,MDZ,Mendoza,FO5051,FlybondiLanded,,11:03
+10:45,02 Dec,RGA,Rio Grande,AR1847,Aerolineas ArgentinasLanded,,11:00
+10:45,02 Dec,MDZ,Mendoza,WJ3241,JetSMART,,
+10:45,02 Dec,MDZ,Mendoza,JA3241,JetSMARTLanded,,10:36
+10:50,02 Dec,GIG,Rio De Janeiro,G37650,Gol ,2Landed,10:26
+11:05,02 Dec,ROS,Rosario,AR1717,Aerolineas Argentinas ,3Landed,11:12
+11:10,02 Dec,CNQ,Corrientes,AR1771,Aerolineas Argentinas ,1Landed,10:57
+11:14,02 Dec,COR,Cordoba,JA3267,JetSMARTLanded,,10:52
+11:14,02 Dec,COR,Cordoba,WJ3267,JetSMART,,
+11:20,02 Dec,GRU,Sao Paulo,LA8140,LATAM Airlines ,1Landed,11:09
+11:29,02 Dec,BRC,San Carlos de Bariloche,WJ3183,JetSMART,,
+11:29,02 Dec,BRC,San Carlos de Bariloche,JA3183,JetSMARTLanded,,11:23
+11:35,02 Dec,SLA,Salta,FO5161,FlybondiLanded,,11:55
+11:35,02 Dec,USH,Ushuaia,AR1885,Aerolineas Argentinas ,2Landed,11:43
+11:35,02 Dec,PDP,Punta Del Este,AR1351,Aerolineas ArgentinasLanded,,11:17
+11:45,02 Dec,COR,Cordoba,AR1539,Aerolineas ArgentinasLanded,,11:28
+11:55,02 Dec,MDQ,Mar Del Plata,AR1605,Aerolineas Argentinas ,2Landed,11:50
+12:00,02 Dec,SCL,Santiago,AR1281,Aerolineas Argentinas ,1Landed,11:33
+12:10,02 Dec,IGR,Iguazu,AR1733,Aerolineas Argentinas ,3Landed,11:47
+12:15,02 Dec,BHI,Bahia Blanca,AR1621,Aerolineas Argentinas ,1Landed,12:10
+12:20,02 Dec,GRU,Sao Paulo,G37682,Gol ,2Landed,12:06
+12:40,02 Dec,MVD,Montevideo,AR1385,Aerolineas Argentinas ,1Landed,12:28
+12:48,02 Dec,USH,Ushuaia,JA3460,JetSMARTLanded,,12:58
+12:48,02 Dec,USH,Ushuaia,WJ3460,JetSMART,,
+12:50,02 Dec,FMA,Formosa,AR1769,Aerolineas ArgentinasLanded,,12:33
+13:05,02 Dec,MDZ,Mendoza,AR1409,Aerolineas ArgentinasLanded,,12:55
+13:10,02 Dec,IGR,Iguazu,AR1743,Aerolineas Argentinas ,2Landed,13:48
+13:10,02 Dec,LUQ,San Luis,AR1431,Aerolineas ArgentinasLanded,,13:09
+13:25,02 Dec,CRD,Comodoro Rivadavia,AR1829,Aerolineas,,
+13:30,02 Dec,CTC,Catamarca,AR1443,Aerolineas Argentinas ,1Landed,13:17
+13:35,02 Dec,FTE,El Calafate,FO5551,FlybondiLanded,,10:06
+13:45,02 Dec,REL,Trelew,AR1882,Aerolineas ArgentinasLanded,,13:33
+13:45,02 Dec,SLA,Salta,AR1459,Aerolineas ArgentinasLanded,,14:03
+14:00,02 Dec,IGR,Iguazu,FO5103,FlybondiLanded,,14:27
+14:05,02 Dec,USH,Ushuaia,FO5043,FlybondiLanded,,13:44
+14:10,02 Dec,CPC,San Martin De Los Andes,AR1673,Aerolineas Argentinas ,1Landed,14:00
+14:15,02 Dec,UAQ,San Juan,AR1421,Aerolineas ArgentinasLanded,,14:15
+14:15,02 Dec,MDZ,Mendoza,AR1407,Aerolineas Argentinas ,1Landed,14:06
+14:20,02 Dec,NQN,Neuquen,WJ3447,JetSMART,,
+14:20,02 Dec,NQN,Neuquen,JA3447,JetSMARTEstimated,,15:17
+14:20,02 Dec,FTE,El Calafate,AR1891,Aerolineas ArgentinasLanded,,14:11
+14:25,02 Dec,IGR,Iguazu,AR1737,Aerolineas Argentinas ,1Landed,14:17
+14:35,02 Dec,RES,Resistencia,AR1781,Aerolineas Argentinas ,2Landed,14:39
+14:40,02 Dec,SLA,Salta,AR1457,Aerolineas ArgentinasLanded,,14:24
+14:44,02 Dec,IGR,Iguazu,WJ3399,JetSMART,,
+14:44,02 Dec,IGR,Iguazu,JA3399,JetSMARTLanded,,15:04
+14:45,02 Dec,GIG,Rio De Janeiro,AR1261,Aerolineas Argentinas ,1Landed,14:20
+14:50,02 Dec,IRJ,La Rioja,AR1441,Aerolineas Argentinas ,1Landed,14:29
+14:55,02 Dec,CPC,San Martin De Los Andes,WJ3551,JetSMART,,
+14:55,02 Dec,CPC,San Martin De Los Andes,JA3551,JetSMARTLanded,,15:07
+15:00,02 Dec,PSS,Posadas,AR1765,Aerolineas Argentinas ,1Landed,15:12
+15:05,02 Dec,FLN,Florianopolis,G37692,Gol ,1Landed,14:36
+15:10,02 Dec,MDZ,Mendoza,AR1413,Aerolineas Argentinas ,2Landed,14:44
+15:20,02 Dec,BHI,Bahia Blanca,AR1625,Aerolineas ArgentinasLanded,,15:32
+15:20,02 Dec,COR,Cordoba,AR1511,Aerolineas Argentinas ,1Landed,15:01
+15:25,02 Dec,TUC,Tucuman,AR1499,Aerolineas ArgentinasLanded,,15:40
+15:35,02 Dec,RGL,Rio Gallegos,AR1801,Aerolineas Argentinas ,1Landed,15:50
+15:40,02 Dec,AFA,San Rafael,AR1435,Aerolineas Argentinas ,1Landed,15:23
+15:40,02 Dec,MDZ,Mendoza,AR1405,Aerolineas Argentinas ,2Landed,15:47
+15:40,02 Dec,GRU,Sao Paulo,LA8034,LATAM AirlinesLanded,,15:43
+15:40,02 Dec,CNQ,Corrientes,AR1773,Aerolineas ArgentinasEstimated,,16:52
+16:00,02 Dec,LIM,Lima,LA2380,LATAM AirlinesLanded,,15:54
+16:10,02 Dec,MDQ,Mar Del Plata,AR1601,Aerolineas Argentinas ,2Landed,16:07
+16:15,02 Dec,SDE,Santiago Del Estero,AR1495,Aerolineas Argentinas ,1Landed,16:12
+16:20,02 Dec,SCL,Santiago,AR1285,Aerolineas Argentinas ,3Landed,16:20
+16:25,02 Dec,BRC,San Carlos de Bariloche,FO5273,FlybondiLanded,,17:13
+16:30,02 Dec,COR,Cordoba,AR1501,Aerolineas Argentinas ,1Landed,16:04
+16:35,02 Dec,SLA,Salta,AR1469,Aerolineas Argentinas,,
+16:40,02 Dec,USH,Ushuaia,AR1899,Aerolineas Argentinas,,
+16:40,02 Dec,REL,Trelew,AR1853,Aerolineas Argentinas ,1Landed,16:24
+17:00,02 Dec,CRD,Comodoro Rivadavia,AR1839,Aerolineas Argentinas ,1Landed,17:10
+17:05,02 Dec,GRU,Sao Paulo,G37684,Gol ,2Landed,16:40
+17:10,02 Dec,COR,Cordoba,AR1551,Aerolineas Argentinas ,1Landed,17:07
+17:20,02 Dec,BRC,San Carlos de Bariloche,AR1677,Aerolineas ArgentinasLanded,,17:23
+17:20,02 Dec,UAQ,San Juan,AR1425,Aerolineas Argentinas ,1Landed,17:41
+17:25,02 Dec,MVD,Montevideo,AR1383,Aerolineas ArgentinasLanded,,17:58
+17:45,02 Dec,REC,Recife,G37752,Gol ,1Landed,16:44
+17:45,02 Dec,CPC,San Martin De Los Andes,AR1671,Aerolineas Argentinas ,1Landed,17:48
+18:00,02 Dec,IGR,Iguazu,AR1731,Aerolineas Argentinas,,
+18:15,02 Dec,SLA,Salta,AR1451,Aerolineas Argentinas ,1Landed,17:37
+18:25,02 Dec,COR,Cordoba,FO5021,FlybondiLanded,,17:53
+18:25,02 Dec,BRC,San Carlos de Bariloche,AR1685,Aerolineas Argentinas ,2Landed,18:17
+18:30,02 Dec,EQS,Esquel,AR1667,Aerolineas Argentinas ,1Landed,18:44
+18:35,02 Dec,CNQ,Corrientes,FO5151,FlybondiLanded,,17:55
+18:40,02 Dec,TUC,Tucuman,AR1481,Aerolineas Argentinas ,2Landed,19:15
+18:40,02 Dec,SCL,Santiago,AR1287,Aerolineas Argentinas ,1Estimated,19:58
+18:50,02 Dec,BHI,Bahia Blanca,AR1629,Aerolineas ArgentinasLanded,,18:59
+19:00,02 Dec,IGR,Iguazu,AR1759,Aerolineas Argentinas,,
+19:00,02 Dec,SFN,Santa Fe,AR1723,Aerolineas ArgentinasLanded,,18:32
+19:00,02 Dec,VDM,Viedma,AR1641,Aerolineas ArgentinasLanded,,19:49
+19:05,02 Dec,IGR,Iguazu,FO5105,FlybondiLanded,,17:17
+19:20,02 Dec,MDZ,Mendoza,AR1411,Aerolineas Argentinas ,2Landed,19:11
+19:20,02 Dec,CWB,Curitiba,AR1227,Aerolineas Argentinas ,1Landed,18:53
+19:40,02 Dec,SSA,Salvador,G37490,Gol ,1Landed,19:46
+19:40,02 Dec,USH,Ushuaia,AR1831,Aerolineas ArgentinasLanded,,19:35
+19:50,02 Dec,SDE,Santiago Del Estero,FO5231,FlybondiLanded,,19:43
+20:00,02 Dec,BRC,San Carlos de Bariloche,AR1633,Aerolineas Argentinas ,1Landed,20:09
+20:00,02 Dec,IGR,Iguazu,AR1745,Aerolineas Argentinas ,1Estimated,21:51
+20:20,02 Dec,FTE,El Calafate,AR1873,Aerolineas Argentinas ,1Landed,20:00
+20:30,02 Dec,MVD,Montevideo,AR1387,Aerolineas Argentinas ,2Landed,20:04
+20:40,02 Dec,REL,Trelew,AR1851,Aerolineas ArgentinasLanded,,20:19
+20:50,02 Dec,CRD,Comodoro Rivadavia,AR1827,Aerolineas Argentinas ,1Landed,20:27
+20:55,02 Dec,FMA,Formosa,AR1779,Aerolineas Argentinas ,1Landed,20:56
+21:05,02 Dec,COR,Cordoba,WJ3269,JetSMART,,
+21:05,02 Dec,COR,Cordoba,JA3269,JetSMARTLanded,,20:45
+21:10,02 Dec,GRU,Sao Paulo,LA8138,LATAM AirlinesLanded,,21:06
+21:10,02 Dec,MDQ,Mar Del Plata,AR1607,Aerolineas ArgentinasLanded,,20:52
+21:20,02 Dec,FTE,El Calafate,AR1871,Aerolineas Argentinas ,2Landed,21:13
+21:20,02 Dec,COR,Cordoba,AR1507,Aerolineas Argentinas ,1Landed,21:01
+21:30,02 Dec,RHD,Rio Hondo,AR1493,Aerolineas ArgentinasLanded,,21:17
+21:50,02 Dec,RES,Resistencia,AR1785,Aerolineas Argentinas ,1Landed,21:59
+21:50,02 Dec,GRU,Sao Paulo,AR1243,Aerolineas Argentinas ,1Landed,21:40
+21:50,02 Dec,COR,Cordoba,FO5013,FlybondiEstimated,,23:29
+21:55,02 Dec,JUJ,Jujuy,AR1475,Aerolineas,,
+22:05,02 Dec,NQN,Neuquen,AR1663,Aerolineas ArgentinasLanded,,21:52
+22:40,02 Dec,LUQ,San Luis,AR1433,Aerolineas ArgentinasLanded,,22:14
+22:40,02 Dec,MDZ,Mendoza,AR1503,Aerolineas Argentinas ,2Landed,23:10
+22:45,02 Dec,CRD,Comodoro Rivadavia,AR1823,Aerolineas Argentinas ,1Landed,22:18
+22:46,02 Dec,NQN,Neuquen,WJ3451,JetSMART,,
+22:50,02 Dec,USH,Ushuaia,AR1880,Aerolineas Argentinas ,1Landed,22:49
+22:59,02 Dec,MDZ,Mendoza,WJ3245,JetSMART,,
+22:59,02 Dec,MDZ,Mendoza,JA3245,JetSMARTEstimated,,00:09
+23:10,02 Dec,JUJ,Jujuy,AR1473,Aerolineas Argentinas ,1Landed,23:20
+23:25,02 Dec,PMY,Puerto Madryn,AR1859,Aerolineas ArgentinasLanded,,23:13
+23:25,02 Dec,PSS,Posadas,AR1763,Aerolineas Argentinas ,1Landed,23:16
+23:25,02 Dec,IGR,Iguazu,AR1741,Aerolineas Argentinas ,1Landed,23:41
+00:18,03 Dec,MDZ,Mendoza,WJ3247,JetSMART,,
+00:18,03 Dec,MDZ,Mendoza,JA3247,JetSMARTLanded,,00:36
+00:25,03 Dec,FTE,El Calafate,AR1849,Aerolineas ArgentinasLanded,,00:14
+00:45,03 Dec,NQN,Neuquen,FO5309,FlybondiLanded,,00:48
+00:50,03 Dec,USH,Ushuaia,AR1889,Aerolineas Argentinas ,2Landed,00:58
+01:55,03 Dec,USH,Ushuaia,AR1833,Aerolineas ArgentinasLanded,,01:59
+02:04,03 Dec,UAQ,San Juan,AR1975,Aerolineas,,
+04:05,03 Dec,GRU,Sao Paulo,AR1247,Aerolineas Argentinas ,2Landed,04:04
+04:45,03 Dec,CRD,Comodoro Rivadavia,AR1825,Aerolineas Argentinas ,1Landed,04:37
+04:45,03 Dec,ASU,Asuncion,AR1341,Aerolineas Argentinas ,3Landed,04:00
+05:05,03 Dec,LIM,Lima,AR1365,Aerolineas Argentinas ,2Landed,04:45
+05:25,03 Dec,SSA,Salvador,AR1221,Aerolineas Argentinas ,1Landed,04:42
+05:45,03 Dec,VVI,Santa Cruz,AR1369,Aerolineas ArgentinasLanded,,05:34
+07:30,03 Dec,BOG,Bogota,AR1361,Aerolineas Argentinas ,1Landed,06:52
+08:25,03 Dec,ROS,Rosario,AR1709,Aerolineas Argentinas ,3Landed,08:09
+08:33,03 Dec,COR,Cordoba,WJ3267,JetSMART,,
+08:33,03 Dec,COR,Cordoba,JA3267,JetSMARTLanded,,08:32
+08:40,03 Dec,REL,Trelew,AR1855,Aerolineas ArgentinasLanded,,08:28
+08:40,03 Dec,COR,Cordoba,AR1531,Aerolineas Argentinas ,3Landed,08:25
+08:45,03 Dec,MVD,Montevideo,AR1381,Aerolineas Argentinas ,1Landed,08:18
+09:00,03 Dec,MDZ,Mendoza,AR1417,Aerolineas Argentinas ,4Landed,08:49
+09:04,03 Dec,NQN,Neuquen,WJ3447,JetSMART,,
+09:04,03 Dec,NQN,Neuquen,JA3447,JetSMARTLanded,,09:08
+09:05,03 Dec,SLA,Salta,AR1465,Aerolineas Argentinas ,1Landed,08:51
+09:10,03 Dec,BHI,Bahia Blanca,AR1623,Aerolineas ArgentinasLanded,,08:42
+09:35,03 Dec,GRU,Sao Paulo,LA8032,LATAM AirlinesLanded,,10:03
+09:45,03 Dec,SLA,Salta,FO5161,FlybondiLanded,,09:35
+09:45,03 Dec,JUJ,Jujuy,AR1471,Aerolineas Argentinas ,1Landed,09:38
+09:50,03 Dec,RES,Resistencia,AR1787,Aerolineas Argentinas ,1Landed,09:44
+09:55,03 Dec,COR,Cordoba,FO5021,FlybondiLanded,,08:36
+09:59,03 Dec,BRC,San Carlos de Bariloche,WJ3183,JetSMART,,
+09:59,03 Dec,BRC,San Carlos de Bariloche,JA3183,JetSMARTLanded,,09:41
+10:10,03 Dec,TUC,Tucuman,AR1489,Aerolineas ArgentinasLanded,,09:47
+10:30,03 Dec,NQN,Neuquen,AR1653,Aerolineas Argentinas ,1Landed,10:09
+10:40,03 Dec,NQN,Neuquen,FO5301,FlybondiLanded,,10:23
+10:45,03 Dec,COR,Cordoba,AR1509,Aerolineas Argentinas ,3Landed,10:32
+11:00,03 Dec,GIG,Rio De Janeiro,G37650,Gol ,2Landed,10:28
+11:05,03 Dec,BRC,San Carlos de Bariloche,FO5239,FlybondiLanded,,11:02
+11:05,03 Dec,MDZ,Mendoza,FO5051,FlybondiLanded,,11:31
+11:08,03 Dec,SLA,Salta,JA3495,JetSMARTLanded,,10:51
+11:08,03 Dec,SLA,Salta,WJ3495,JetSMART,,
+11:30,03 Dec,RGA,Rio Grande,AR1845,Aerolineas Argentinas ,2Landed,11:39
+11:45,03 Dec,IGR,Iguazu,FO5101,FlybondiLanded,,11:07
+11:45,03 Dec,COR,Cordoba,AR1539,Aerolineas ArgentinasLanded,,11:36
+11:55,03 Dec,GRU,Sao Paulo,LA8140,LATAM Airlines ,1Landed,11:43
+12:00,03 Dec,USH,Ushuaia,AR1885,Aerolineas Argentinas ,2Landed,11:46
+12:20,03 Dec,GRU,Sao Paulo,G37682,Gol ,2Landed,12:19
+12:20,03 Dec,COR,Cordoba,AR1507,Aerolineas Argentinas ,1Landed,12:09
+12:25,03 Dec,PSS,Posadas,AR1765,Aerolineas Argentinas ,1Landed,12:15
+12:30,03 Dec,BRC,San Carlos de Bariloche,AR1637,Aerolineas ArgentinasLanded,,12:05
+12:40,03 Dec,RGA,Rio Grande,AR1847,Aerolineas ArgentinasLanded,,12:37
+12:40,03 Dec,BHI,Bahia Blanca,AR1621,Aerolineas Argentinas ,1Landed,12:47
+12:40,03 Dec,MVD,Montevideo,AR1385,Aerolineas Argentinas ,1Landed,12:33
+12:53,03 Dec,USH,Ushuaia,WJ3460,JetSMART,,
+13:00,03 Dec,CRD,Comodoro Rivadavia,AR1829,Aerolineas ArgentinasLanded,,13:12
+13:00,03 Dec,MDZ,Mendoza,AR1409,Aerolineas ArgentinasLanded,,12:51
+13:05,03 Dec,FTE,El Calafate,FO5551,FlybondiLanded,,13:01
+13:15,03 Dec,VDM,Viedma,AR1642,Aerolineas ArgentinasLanded,,12:58
+13:30,03 Dec,PRA,Parana,AR1729,Aerolineas ArgentinasLanded,,13:10
+13:30,03 Dec,CTC,Catamarca,AR1443,Aerolineas Argentinas ,1Landed,13:06
+13:45,03 Dec,NQN,Neuquen,AR1659,Aerolineas Argentinas ,2Landed,13:14
+13:50,03 Dec,BRC,San Carlos de Bariloche,AR1698,Aerolineas ArgentinasLanded,,13:50
+13:50,03 Dec,LUQ,San Luis,AR1431,Aerolineas ArgentinasLanded,,13:44
+14:10,03 Dec,CPC,San Martin De Los Andes,AR1673,Aerolineas Argentinas ,1Landed,14:02
+14:15,03 Dec,REL,Trelew,AR1870,Aerolineas ArgentinasLanded,,14:16
+14:17,03 Dec,BRC,San Carlos de Bariloche,WJ3191,JetSMART,,
+14:17,03 Dec,BRC,San Carlos de Bariloche,JA3191,JetSMARTLanded,,14:00
+14:21,03 Dec,CNQ,Corrientes,WJ3621,JetSMART,,
+14:21,03 Dec,CNQ,Corrientes,JA3621,JetSMARTLanded,,13:55
+14:25,03 Dec,SDE,Santiago Del Estero,FO5231,FlybondiLanded,,14:11
+14:35,03 Dec,RES,Resistencia,AR1781,Aerolineas Argentinas ,2Landed,14:54
+14:40,03 Dec,MDZ,Mendoza,AR1413,Aerolineas Argentinas ,2Landed,14:29
+14:40,03 Dec,USH,Ushuaia,AR1843,Aerolineas ArgentinasLanded,,14:45
+14:40,03 Dec,SLA,Salta,AR1457,Aerolineas ArgentinasLanded,,14:20
+14:45,03 Dec,GIG,Rio De Janeiro,AR1261,Aerolineas Argentinas ,1Landed,14:34
+14:59,03 Dec,CPC,San Martin De Los Andes,WJ3551,JetSMART,,
+15:05,03 Dec,BHI,Bahia Blanca,AR1625,Aerolineas ArgentinasLanded,,14:49
+15:10,03 Dec,PSS,Posadas,FO5121,FlybondiLanded,,15:00
+15:15,03 Dec,MDQ,Mar Del Plata,AR1605,Aerolineas Argentinas ,2Landed,15:05
+15:20,03 Dec,GRU,Sao Paulo,LA8034,LATAM AirlinesLanded,,15:14
+15:20,03 Dec,MDZ,Mendoza,AR1407,Aerolineas Argentinas ,1Landed,15:23
+15:25,03 Dec,TUC,Tucuman,AR1499,Aerolineas ArgentinasLanded,,15:19
+15:35,03 Dec,GRU,Sao Paulo,AR1249,Aerolineas Argentinas ,5Landed,15:30
+15:40,03 Dec,USH,Ushuaia,AR1877,Aerolineas ArgentinasLanded,,15:34
+15:55,03 Dec,CRD,Comodoro Rivadavia,FO5501,FlybondiLanded,,15:10
+15:55,03 Dec,MDZ,Mendoza,FO5053,FlybondiLanded,,15:58
+16:00,03 Dec,LIM,Lima,LA2380,LATAM AirlinesLanded,,15:28
+16:00,03 Dec,AFA,San Rafael,AR1435,Aerolineas Argentinas ,1Landed,15:48
+16:05,03 Dec,PSS,Posadas,AR1767,Aerolineas ArgentinasLanded,,15:42
+16:10,03 Dec,SDE,Santiago Del Estero,AR1495,Aerolineas Argentinas ,1Landed,16:34
+16:10,03 Dec,IGR,Iguazu,FO5103,FlybondiLanded,,16:45
+16:20,03 Dec,SCL,Santiago,AR1285,Aerolineas Argentinas ,3Landed,16:22
+16:25,03 Dec,IGR,Iguazu,AR1743,Aerolineas Argentinas ,2Landed,16:26
+16:35,03 Dec,BRC,San Carlos de Bariloche,AR1631,Aerolineas ArgentinasLanded,,16:57
+16:35,03 Dec,MDZ,Mendoza,AR1405,Aerolineas Argentinas ,2Landed,16:29
+16:45,03 Dec,TUC,Tucuman,AR1483,Aerolineas Argentinas ,2Landed,16:42
+16:55,03 Dec,FTE,El Calafate,AR1891,Aerolineas ArgentinasLanded,,16:48
+16:55,03 Dec,COR,Cordoba,AR1551,Aerolineas Argentinas ,1Landed,16:54
+17:05,03 Dec,GRU,Sao Paulo,G37684,Gol ,2Landed,16:51
+17:10,03 Dec,FMA,Formosa,AR1779,Aerolineas Argentinas ,1Landed,17:08
+17:15,03 Dec,COR,Cordoba,AR1505,Aerolineas Argentinas ,1Landed,17:35
+17:20,03 Dec,SLA,Salta,AR1451,Aerolineas Argentinas ,1Estimated,19:02
+17:25,03 Dec,BRC,San Carlos de Bariloche,AR1635,Aerolineas ArgentinasLanded,,17:11
+17:35,03 Dec,CNQ,Corrientes,AR1773,Aerolineas ArgentinasLanded,,17:25
+17:40,03 Dec,MDZ,Mendoza,AR1503,Aerolineas Argentinas ,2Landed,17:29
+17:45,03 Dec,TUC,Tucuman,AR1481,Aerolineas Argentinas ,3Landed,17:31
+17:45,03 Dec,CRD,Comodoro Rivadavia,AR1839,Aerolineas Argentinas ,1Landed,17:39
+17:45,03 Dec,MDQ,Mar Del Plata,AR1609,Aerolineas Argentinas ,2Landed,17:19
+18:00,03 Dec,SCL,Santiago,WJ3015,JetSMART,,
+18:00,03 Dec,SCL,Santiago,JA3015,JetSMARTLanded,,17:50
+18:05,03 Dec,FTE,El Calafate,AR1696,Aerolineas Argentinas ,1Landed,18:06
+18:20,03 Dec,GIG,Rio De Janeiro,LA8142,LATAM AirlinesLanded,,18:11
+18:20,03 Dec,RES,Resistencia,AR1783,Aerolineas Argentinas ,2Landed,17:54
+18:25,03 Dec,BRC,San Carlos de Bariloche,AR1685,Aerolineas Argentinas ,2Landed,18:02
+18:35,03 Dec,PMY,Puerto Madryn,FO5311,FlybondiLanded,,18:19
+18:40,03 Dec,SCL,Santiago,AR1287,Aerolineas Argentinas ,1Landed,18:29
+18:50,03 Dec,BHI,Bahia Blanca,AR1629,Aerolineas ArgentinasLanded,,18:50
+18:55,03 Dec,SLA,Salta,AR1485,Aerolineas Argentinas ,1Landed,18:47
+19:00,03 Dec,FLN,Florianopolis,G37692,Gol ,1Landed,18:25
+19:10,03 Dec,EQS,Esquel,AR1667,Aerolineas Argentinas ,1Landed,19:05
+19:10,03 Dec,MDZ,Mendoza,AR1415,Aerolineas Argentinas ,1Landed,19:12
+19:25,03 Dec,BRC,San Carlos de Bariloche,AR1677,Aerolineas ArgentinasEstimated,,20:13
+19:25,03 Dec,MDQ,Mar Del Plata,AR1603,Aerolineas Argentinas ,2Landed,19:22
+19:25,03 Dec,IRJ,La Rioja,AR1441,Aerolineas Argentinas ,1Landed,18:53
+19:30,03 Dec,RGL,Rio Gallegos,AR1803,Aerolineas Argentinas ,1Landed,19:15
+19:40,03 Dec,PDP,Punta Del Este,AR1351,Aerolineas ArgentinasLanded,,20:12
+19:45,03 Dec,UAQ,San Juan,AR1421,Aerolineas ArgentinasLanded,,19:38
+19:45,03 Dec,COR,Cordoba,FO5023,FlybondiLanded,,17:22
+19:49,03 Dec,NQN,Neuquen,WJ3449,JetSMART,,
+19:49,03 Dec,NQN,Neuquen,JA3449,JetSMARTLanded,,19:26
+19:55,03 Dec,NQN,Neuquen,AR1657,Aerolineas Argentinas ,2Landed,19:59
+19:55,03 Dec,TUC,Tucuman,AR1487,Aerolineas Argentinas ,1Landed,20:34
+20:20,03 Dec,FTE,El Calafate,AR1873,Aerolineas Argentinas ,1Landed,19:55
+20:29,03 Dec,MDZ,Mendoza,WJ3241,JetSMART,,
+20:40,03 Dec,REL,Trelew,AR1851,Aerolineas ArgentinasLanded,,20:25
+20:45,03 Dec,MDZ,Mendoza,FO5065,FlybondiLanded,,20:43
+20:50,03 Dec,SCL,Santiag,oH2535,Sky AirlineLanded,,20:56
+20:55,03 Dec,FMA,Formosa,AR1761,Aerolineas ArgentinasLanded,,20:31
+21:00,03 Dec,MDQ,Mar Del Plata,AR1601,Aerolineas Argentinas ,1Landed,21:06
+21:05,03 Dec,ROS,Rosario,AR1715,Aerolineas Argentinas ,2Landed,20:53
+21:10,03 Dec,GRU,Sao Paulo,LA8138,LATAM AirlinesLanded,,21:01
+21:25,03 Dec,PMY,Puerto Madryn,AR1857,Aerolineas,,
+21:30,03 Dec,SCL,Santiago,JA1007,JetSMARTLanded,,22:12
+21:45,03 Dec,RSA,Santa Rosa,AR1521,Aerolineas ArgentinasLanded,,21:25
+21:50,03 Dec,GRU,Sao Paulo,AR1243,Aerolineas Argentinas ,1Landed,21:43
+21:55,03 Dec,NQN,Neuquen,AR1669,Aerolineas ArgentinasLanded,,22:28
+22:05,03 Dec,JUJ,Jujuy,AR1475,Aerolineas ArgentinasLanded,,22:04
+22:10,03 Dec,RLO,Santa Rose de Conlara,AR1439,Aerolineas ArgentinasLanded,,21:59
+22:15,03 Dec,MDZ,Mendoza,AR1403,Aerolineas Argentinas ,2Landed,22:31
+22:20,03 Dec,FTE,El Calafate,AR1878,Aerolineas ArgentinasLanded,,21:50
+22:25,03 Dec,USH,Ushuaia,AR1831,Aerolineas ArgentinasLanded,,22:15
+22:25,03 Dec,IGR,Iguazu,AR1735,Aerolineas Argentinas ,2Landed,22:25
+22:25,03 Dec,MVD,Montevideo,AR1383,Aerolineas ArgentinasLanded,,22:07
+22:35,03 Dec,BRC,San Carlos de Bariloche,AR1639,Aerolineas Argentinas ,1Landed,22:35
+22:36,03 Dec,COR,Cordoba,JA3273,JetSMARTLanded,,22:18
+22:36,03 Dec,COR,Cordoba,WJ3273,JetSMART,,
+22:45,03 Dec,CRD,Comodoro Rivadavia,AR1823,Aerolineas Argentinas ,1Landed,22:38
+22:45,03 Dec,UAQ,San Juan,AR1425,Aerolineas Argentinas ,1Landed,22:45
+22:45,03 Dec,POA,Porto Alegre,AR1233,Aerolineas Argentinas ,2Landed,22:41
+23:05,03 Dec,COR,Cordoba,AR1501,Aerolineas Argentinas ,1Landed,22:55
+23:05,03 Dec,JUJ,Jujuy,AR1473,Aerolineas Argentinas ,1Landed,23:28
+23:10,03 Dec,COR,Cordoba,FO5017,FlybondiLanded,,23:04
+23:15,03 Dec,RCU,Rio Cuarto,AR1527,Aerolineas ArgentinasLanded,,23:44
+23:20,03 Dec,SLA,Salta,AR1497,Aerolineas ArgentinasLanded,,23:03
+23:25,03 Dec,PSS,Posadas,AR1763,Aerolineas Argentinas ,1Landed,23:06
+23:25,03 Dec,IGR,Iguazu,AR1741,Aerolineas Argentinas ,1Landed,23:14
+23:25,03 Dec,BRC,San Carlos de Bariloche,AR1647,Aerolineas Argentinas ,1Landed,22:58
+23:25,03 Dec,MDQ,Mar Del Plata,AR1611,Aerolineas ArgentinasLanded,,23:31
+23:25,03 Dec,SDE,Santiago Del Estero,AR1491,Aerolineas Argentinas ,1Landed,23:10
+23:55,03 Dec,BSB,Brasilia,AR1219,Aerolineas Argentinas ,1Landed,00:14

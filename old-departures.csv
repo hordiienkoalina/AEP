@@ -1,0 +1,297 @@
+TIME,FLIGHT,TO,AIRLINE,AIRCRAFT,,STATUS
+"Sunday, Dec 03",,,,,,
+4:05,AR1884,Ushuaia (USH),Aerolineas Argentinas,B738 (LV-GKU),,Departed 04:13
+4:45,AR1470,Jujuy (JUJ),Aerolineas Argentinas,B38M (LV-HKW),,Departed 04:58
+4:54,WJ3446,Neuquen (NQN),JetSMART (Cougar Livery),A320 (LV-KDP),,Departed 05:22
+5:00,AR1408,Mendoza (MDZ),Aerolineas Argentinas,B738 (LV-GUB),,Departed 05:08
+5:05,AR1698,El Calafate (FTE),Aerolineas Argentinas,B738 (LV-GKT),,Departed 05:32
+5:15,AR1730,Puerto Iguazu (IGR),Aerolineas Argentinas,E190 (LV-CKZ),,Departed 05:38
+5:17,WJ3266,Cordoba (COR),JetSMART (Jaguar Livery),A320 (LV-HVT),,Departed 05:30
+5:50,FO5020,Cordoba (COR),Flybondi,B738 (LV-KJE),,Departed 05:41
+6:00,AR1426,Mendoza (MDZ),Aerolineas Argentinas,B38M (LV-GVD),,Departed 06:10
+6:05,AR1870,El Calafate (FTE),Aerolineas Argentinas,B738 (LV-GVC),,Departed 06:20
+6:10,FO5192,Jujuy (JUJ),Flybondi,738,,Unknown
+6:20,AR1609,Rio Gallegos (RGL),Aerolineas Argentinas,E190 (LV-FPT),,Departed 06:33
+6:20,AR1734,Puerto Iguazu (IGR),Aerolineas Argentinas,B738 (LV-CXT),,Departed 06:26
+6:20,WJ3494,Salta (SLA),JetSMART (King Penguin Livery),A320 (LV-JQE),,Departed 06:22
+6:35,FO5310,Puerto Madryn (PMY),Flybondi,B738 (LV-KEF),,Unknown
+6:40,AR1642,San Carlos de Bariloche (BRC),Aerolineas Argentinas,E190 (LV-CIE),,Departed 06:53
+6:40,FO5300,Neuquen (NQN),Flybondi,B738 (LV-KJF),,Departed 06:43
+6:40,FO5014,Cordoba (COR),Flybondi,B738 (LV-KJE),,Unknown
+6:42,AR1020,Buenos Aires (EZE),Aerolineas Argentinas,B38M (LV-GVE),,Departed 06:58
+6:45,AR1842,Ushuaia (USH),Aerolineas Argentinas,B738 (LV-FUC),,Departed 07:04
+7:00,AR1410,Mendoza (MDZ),Aerolineas Argentinas,E190 (LV-CHQ),,Departed 07:09
+7:00,WJ3901,Ushuaia (USH),JetSMART (Cardinal Livery),A320 (LV-IVO),,Departed 07:21
+7:10,AR1508,Cordoba (COR),Aerolineas Argentinas,B738 (LV-FSK),,Departed 07:24
+7:10,FO5050,Mendoza (MDZ),Flybondi,B738 (LV-KEG),,Departed 07:27
+7:35,AR1260,Rio de Janeiro (GIG),Aerolineas Argentinas,B38M (LV-HKU),,Departed 07:47
+7:45,AR1828,Comodoro Rivadavia (CRD),Aerolineas Argentinas,E190 (LV-CEU),,Departed 08:04
+7:50,FO5300,Neuquen (NQN),Flybondi,B738 (LV-KJF),,Estimated dep. 06:43
+8:05,AR1702,Rosario (ROS),Aerolineas Argentinas,B738 (LV-FXQ),,Departed 08:20
+8:10,AR1538,Cordoba (COR),Aerolineas Argentinas,B738 (LV-FVM),,Departed 08:14
+8:35,AR1882,Trelew (REL),Aerolineas Argentinas,B738 (LV-GVA),,Departed 08:44
+8:45,AR1506,Cordoba (COR),Aerolineas Argentinas (Skyteam Livery),B737 (LV-BZA),,Departed 09:13
+8:45,AR1764,Posadas (PSS),Aerolineas Argentinas,E190 (LV-CID),,Departed 08:57
+8:55,ZP821,Asuncion (ASU),Paranair,CRJ2 (ZP-CRR),,Departed 08:52
+9:10,AR1248,Sao Paulo (GRU),Aerolineas Argentinas,B738 (LV-GGK),,Estimated dep. 09:24
+9:10,AR1672,San Martin de los Andes (CPC),Aerolineas Argentinas,B738 (LV-GUC),,Departed 09:19
+9:15,AR1442,Catamarca (CTC),Aerolineas Argentinas,E190 (LV-GBK),,Departed 09:22
+9:18,WJ3190,San Carlos de Bariloche (BRC),JetSMART (Jaguar Livery),A320 (LV-HVT),,Departed 09:28
+9:30,AR1658,Neuquen (NQN),Aerolineas Argentinas,E190 (LV-CET),,Departed 09:36
+9:40,AR1620,Bahia Blanca (BHI),Aerolineas Argentinas,E190 (LV-GIK),,Departed 09:49
+9:40,AR1456,Salta (SLA),Aerolineas Argentinas,B738 (LV-FQZ),,Departed 09:52
+9:45,AR1748,Puerto Iguazu (IGR),Aerolineas Argentinas,E190 (LV-CPJ),,Departed 09:55
+9:45,AR1896,Ushuaia (USH),Aerolineas Argentinas,B738 (LV-FRK),,Departed 10:00
+9:59,WJ3550,San Martin de los Andes (CPC),JetSMART (Cougar Livery),A320 (LV-KDP),,Departed 10:12
+10:00,AR1834,Comodoro Rivadavia (CRD),Aerolineas Argentinas,B38M (LV-KKE),,Departed 10:25
+10:15,AR1384,Montevideo (MVD),Private owner,C172 (LV-CBD),,Departed 10:33
+10:15,AR1684,San Carlos de Bariloche (BRC),Aerolineas Argentinas,B738 (LV-CXS),,Departed 10:29
+10:20,AR1430,San Luis (LUQ),Aerolineas Argentinas (SkyTeam Livery),E190 (LV-FPS),,Departed 10:35
+10:35,LA8143,Rio de Janeiro (GIG),LATAM Airlines,A320 (PR-MBH),,Departed 11:26
+10:35,FO5230,Santiago del Estero (SDE),Flybondi,B738 (LV-KGN),,Departed 10:44
+10:35,FO5052,Mendoza (MDZ),Flybondi,B738 (LV-HKN),,Unknown
+10:44,WJ3620,Corrientes (CNQ),JetSMART (Culpeo Livery),A320 (LV-IVN),,Departed 10:42
+10:45,FO5500,Comodoro Rivadavia (CRD),Flybondi,B738 (LV-KJE),,Departed 10:05
+10:50,AR1728,Parana (PRA),Aerolineas Argentinas,B737 (LV-CBF),,Departed 10:54
+10:50,AR1736,Puerto Iguazu (IGR),Aerolineas Argentinas,B737 (LV-BYY),,Departed 11:00
+10:50,AR1780,Resistencia (RES),Aerolineas Argentinas,E190 (LV-CPI),,Departed 11:37
+11:00,AR1498,Tucuman (TUC),Aerolineas Argentinas,B738 (LV-GKS),,Departed 11:17
+11:10,AR1284,Santiago (SCL),Aerolineas Argentinas,B738 (LV-FQC),,Departed 11:24
+11:10,AR1602,Mar del Plata (MDQ),Aerolineas Argentinas,E190 (LV-CHO),,Departed 11:19
+11:35,FO5120,Posadas (PSS),Flybondi,B738 (LV-KJF),,Departed 11:33
+11:40,LA420,Santiago (SCL),LATAM Airlines,A320 (CC-CQM),,Departed 11:48
+11:45,AR1624,Bahia Blanca (BHI),Aerolineas Argentinas,B737 (LV-BZO),,Departed 11:50
+11:50,AR1742,Puerto Iguazu (IGR),Aerolineas Argentinas,E190 (LV-CMB),,Departed 12:30
+11:50,G37653,Rio de Janeiro (GIG),GOL Linhas Aereas,B38M (PS-GPF),,Departed 12:02
+11:55,AR1434,San Rafael (AFA),Aerolineas Argentinas,E190 (LV-CDZ),,Departed 12:06
+11:55,AR1550,Cordoba (COR),Aerolineas Argentinas,B738 (LV-FQY),,Departed 12:16
+11:55,AR1890,El Calafate (FTE),Aerolineas Argentinas,B738 (LV-FWS),,Departed 12:10
+11:55,FO5168,Salta (SLA),Flybondi,B738 (LV-KEH),,Departed 12:13
+12:00,FO5052,Mendoza (MDZ),Flybondi,B738 (LV-HKN),,Departed 12:20
+12:00,FO5102,Puerto Iguazu (IGR),Flybondi,B738 (LV-KEG),,Departed 12:41
+12:05,FO5230,Santiago del Estero (SDE),Flybondi,B738 (LV-KGN),,Estimated dep. 10:44
+12:10,AR1494,Santiago del Estero (SDE),Aerolineas Argentinas,E190 (LV-CMA),,Departed 12:59
+12:10,AR1634,San Carlos de Bariloche (BRC),Aerolineas Argentinas,B38M (LV-HKW),,Departed 12:22
+12:15,AR1766,Posadas (PSS),Aerolineas Argentinas,B737 (LV-CAD),,Departed 12:23
+12:20,AR1604,Mar del Plata (MDQ),Aerolineas Argentinas,B738 (LV-FSK),,Departed 12:31
+12:25,AR1802,Rio Gallegos (RGL),Aerolineas Argentinas,B38M (LV-KEI),,Departed 12:38
+12:39,WJ3014,Santiago (SCL),JetSMART (King Penguin Livery),A320 (LV-JQE),,Departed 12:49
+12:40,FO5272,San Carlos de Bariloche (BRC),Flybondi,B738 (LV-KDR),,Unknown
+12:40,FO6060,Mendoza (MDZ),Flybondi,738,,Unknown
+12:50,AR1668,Neuquen (NQN),Aerolineas Argentinas,E190 (LV-GIK),,Departed 14:23
+12:50,LA8033,Sao Paulo (GRU),LATAM Airlines,A320 (PR-TYN),,Departed 13:08
+12:50,FO6102,Puerto Iguazu (IGR),Flybondi,B738 (LV-KEG),,Estimated dep. 12:41
+13:00,AR1670,San Martin de los Andes (CPC),Aerolineas Argentinas,B38M (LV-KKD),,Departed 13:11
+13:05,AR1778,Formosa (FMA),Aerolineas Argentinas (Retro Livery),B737 (LV-GOO),,Departed 13:35
+13:05,AR1892,Ushuaia (USH),Aerolineas Argentinas,B738 (LV-FVM),,Departed 13:16
+13:15,AR1480,Tucuman (TUC),Aerolineas Argentinas,E190 (LV-CID),,Departed 13:46
+13:30,AR1286,Santiago (SCL),Aerolineas Argentinas,B738 (LV-GUB),,Departed 13:47
+13:30,AR1502,Mendoza (MDZ),Aerolineas Argentinas (Skyteam Livery),B737 (LV-BZA),,Departed 13:37
+13:30,AR1600,Mar del Plata (MDQ),Aerolineas Argentinas,E190 (LV-GBK),,Departed 14:38
+13:40,AR1666,Esquel (EQS),Aerolineas Argentinas,B38M (LV-KEJ),,Departed 14:13
+13:50,AR1504,Cordoba (COR),Aerolineas Argentinas,E190 (LV-CEU),,Departed 14:36
+13:50,G37665,Sao Paulo (GRU),GOL Linhas Aereas,B38M (PR-XMS),,Departed 14:06
+13:55,FO5272,San Carlos de Bariloche (BRC),Flybondi,B738 (LV-KDR),,Departed 14:31
+14:00,AR1772,Corrientes (CNQ),Aerolineas Argentinas,B737 (LV-CBT),,Departed 14:14
+14:00,WJ3242,Mendoza (MDZ),JetSMART (South Andean Deer Livery),A320 (LV-HEK),,Departed 14:08
+14:05,AR1484,Salta (SLA),Aerolineas Argentinas,E190 (LV-CIE),,Departed 14:26
+14:05,AR1878,Trelew (REL),Aerolineas Argentinas,B738 (LV-GKU),,Departed 14:18
+14:10,FO5310,Puerto Madryn (PMY),Flybondi,B738 (LV-KEF),,Departed 14:21
+14:20,FO5016,Cordoba (COR),Flybondi,738,,Unknown
+14:30,AR1830,Ushuaia (USH),Aerolineas Argentinas,B737 (LV-CBF),,Departed 14:41
+14:30,FO5222,Cordoba (COR),Flybondi,738,,Unknown
+14:40,AR1486,Tucuman (TUC),Aerolineas Argentinas,E190 (LV-CET),,Departed 15:21
+14:40,FO5018,Cordoba (COR),Flybondi,738,,Unknown
+14:45,AR1782,Resistencia (RES),Aerolineas Argentinas (SkyTeam Livery),E190 (LV-FPS),,Departed 14:53
+15:00,AR1414,Mendoza (MDZ),Aerolineas Argentinas,B738 (LV-FVN),,Departed 15:11
+15:10,AR1440,La Rioja (IRJ),Aerolineas Argentinas,E190 (LV-CIH),,Departed 15:16
+15:15,AR1242,Sao Paulo (GRU),Aerolineas Argentinas,B738 (LV-GVC),,Departed 15:36
+15:24,WJ3502,Tucuman (TUC),JetSMART (Culpeo Livery),A320 (LV-IVN),,Departed 15:32
+15:30,AR1886,Ushuaia (USH),Aerolineas Argentinas,B738 (LV-GUC),,Departed 15:43
+15:30,FO5046,Ushuaia (USH),Flybondi,B738 (LV-KAY),,Estimated dep. 15:06
+15:35,AR1420,San Juan (UAQ),Aerolineas Argentinas,E190 (LV-CKZ),,Departed 15:45
+15:39,WJ3448,Neuquen (NQN),JetSMART (Jaguar Livery),A320 (LV-HVT),,Departed 15:38
+15:40,AR1656,Neuquen (NQN),Aerolineas Argentinas,B738 (LV-GKT),,Departed 16:04
+15:40,AR1628,Bahia Blanca (BHI),Aerolineas Argentinas,E190 (LV-CPI),,Departed 16:00
+15:45,FO5282,San Carlos de Bariloche (BRC),Flybondi,B738 (LV-KJF),,Departed 16:10
+16:00,FO6062,Mendoza (MDZ),Flybondi,B738 (LV-HKN),,Unknown
+16:05,AR1218,Brasilia (BSB),Aerolineas Argentinas,B38M (LV-HKU),,Departed 16:31
+16:05,AR1850,Trelew (REL),Aerolineas Argentinas,B738 (LV-FUC),,Departed 16:13
+16:24,WJ3240,Mendoza (MDZ),JetSMART (Kingfisher Livery),A320 (LV-KJA),,Departed 17:45
+16:25,AR1874,El Calafate (FTE),Aerolineas Argentinas,B738 (LV-GKS),,Departed 16:49
+16:45,AR1468,Salta (SLA),Aerolineas Argentinas,E190 (LV-CHQ),,Departed 16:52
+16:45,AR1360,Bogota (BOG),Aerolineas Argentinas,B737 (LV-BZO),,Departed 16:46
+16:45,FO5054,Mendoza (MDZ),Flybondi,B738 (LV-HKN),,Departed 17:09
+16:50,AR1760,Formosa (FMA),Aerolineas Argentinas,B737 (LV-CAD),,Departed 16:58
+16:50,AR1856,Puerto Madryn (PMY),Aerolineas Argentinas,B738 (LV-FSK),,Canceled
+16:55,AR1786,Resistencia (RES),Aerolineas Argentinas,E190 (LV-CDZ),,Departed 17:17
+16:55,FO5190,Jujuy (JUJ),Flybondi,B738 (LV-KEF),,Unknown
+17:00,FO5018,Cordoba (COR),Flybondi,B738 (LV-KJE),,Departed 16:39
+17:05,AR1350,Punta del Este (PDP),Aerolineas Argentinas,E190 (LV-CMB),,Departed 17:57
+17:10,LA2381,Lima (LIM),LATAM Airlines,A320 (CC-BFU),,Departed 17:26
+17:20,AR1638,San Carlos de Bariloche (BRC),Aerolineas Argentinas,B738 (LV-FQC),,Departed 17:37
+17:20,AR1822,Comodoro Rivadavia (CRD),Aerolineas Argentinas,E190 (LV-CHS),,Departed 17:33
+17:25,AR1848,El Calafate (FTE),Aerolineas Argentinas,B738 (LV-GGK),,Departed 17:52
+17:30,AR1544,Cordoba (COR),Aerolineas Argentinas,E190 (LV-CPJ),,Departed 18:17
+17:30,FO6104,Puerto Iguazu (IGR),Flybondi,738,,Unknown
+17:55,AR1402,Mendoza (MDZ),Aerolineas Argentinas,B738 (LV-FQZ),,Departed 18:26
+17:55,G37685,Sao Paulo (GRU),GOL Linhas Aereas,B38M (PS-GPD),,Departed 18:30
+17:55,AR1386,Montevideo (MVD),Aerolineas Argentinas,E190 (LV-CMA),,Departed 18:04
+18:05,AR1472,Jujuy (JUJ),Aerolineas Argentinas (Retro Livery),B737 (LV-GOO),,Departed 18:34
+18:20,AR1232,Porto Alegre (POA),Aerolineas Argentinas,B738 (LV-FVO),,Departed 18:49
+18:20,AR1438,Merlo (RLO),Aerolineas Argentinas,E190 (LV-CEU),,Departed 18:46
+18:20,AR1496,Salta (SLA),Aerolineas Argentinas,B738 (LV-FXQ),,Departed 18:37
+18:20,LA8035,Sao Paulo (GRU),LATAM Airlines,A320 (PR-TQC),,Departed 18:21
+18:20,FO5166,Salta (SLA),Flybondi,738,,Unknown
+18:25,FO5278,San Carlos de Bariloche (BRC),Flybondi,B738 (LV-KEH),,Unknown
+18:30,AR1520,Santa Rosa (RSA),Aerolineas Argentinas,E190 (LV-CID),,Departed 18:43
+18:30,FO5304,Neuquen (NQN),Flybondi,B738 (LV-KEG),,Departed 19:27
+18:35,AR1424,San Juan (UAQ),Aerolineas Argentinas (Skyteam Livery),B737 (LV-BZA),,Departed 18:57
+18:45,AR1654,Neuquen (NQN),Aerolineas Argentinas,B738 (LV-CXT),,Departed 19:01
+18:45,FO5118,Puerto Iguazu (IGR),Flybondi,B738 (LV-KGN),,Unknown
+18:50,AR1364,Lima (LIM),Aerolineas Argentinas,B38M (LV-GVD),,Departed 19:17
+18:50,AR1740,Puerto Iguazu (IGR),Aerolineas Argentinas,E190 (LV-FPT),,Departed 19:07
+18:59,FO5190,Jujuy (JUJ),Flybondi,B738 (LV-KEF),,Departed 19:35
+19:00,AR1416,Mendoza (MDZ),Aerolineas Argentinas,B738 (LV-GVA),,Departed 20:45
+19:10,AR1220,Salvador (SSA),Aerolineas Argentinas,B38M (LV-HKW),,Departed 19:30
+19:20,AR1490,Santiago del Estero (SDE),Aerolineas Argentinas (SkyTeam Livery),E190 (LV-FPS),,Departed 19:32
+19:20,WJ3270,Cordoba (COR),JetSMART (King Penguin Livery),A320 (LV-JQE),,Departed 19:21
+19:30,AR1282,Santiago (SCL),Aerolineas Argentinas,B738 (LV-GGQ),,Departed 19:40
+19:35,AR1762,Posadas (PSS),Aerolineas Argentinas,E190 (LV-CPI),,Departed 19:53
+19:40,LA8139,Sao Paulo (GRU),LATAM Airlines,A320 (PR-MBH),,Departed 19:48
+19:45,FO5114,Puerto Iguazu (IGR),Flybondi,B738 (LV-KGN),,Departed 20:02
+19:50,AR1382,Montevideo (MVD),Aerolineas Argentinas,E190 (LV-CIE),,Departed 20:08
+19:50,AR1464,Salta (SLA),Aerolineas Argentinas,E190 (LV-CIH),,Departed 20:10
+19:50,FO5056,Mendoza (MDZ),Flybondi,B738 (LV-HKN),,Unknown
+20:05,ZP819,Asuncion (ASU),Paranair,CRJ2 (ZP-CRR),,Departed 20:17
+20:10,AR1262,Rio de Janeiro (GIG),Aerolineas Argentinas,B738 (LV-GVB),,Departed 20:21
+20:15,AR1526,Rio Cuarto (RCU),Aerolineas Argentinas,E190 (LV-CHO),,Departed 21:09
+20:20,G37693,Florianopolis (FLN),GOL Linhas Aereas,B38M (PS-GPH),,Departed 20:40
+20:25,AR1488,Tucuman (TUC),Aerolineas Argentinas,B738 (LV-GFQ),,Departed 21:32
+20:30,AR1610,Mar del Plata (MDQ),Aerolineas Argentinas,B38M (LV-KEJ),,Departed 20:49
+20:30,AR1678,San Carlos de Bariloche (BRC),Aerolineas Argentinas,B38M (LV-KEI),,Departed 21:03
+20:34,WJ3248,Mendoza (MDZ),JetSMART (Jaguar Livery),A320 (LV-HVT),,Departed 20:32
+20:35,AR1708,Rosario (ROS),Aerolineas Argentinas,E190 (LV-CMB),,Departed 21:27
+20:40,AR1622,Bahia Blanca (BHI),Aerolineas Argentinas,E190 (LV-CKZ),,Departed 20:58
+20:45,AR1652,Neuquen (NQN),Aerolineas Argentinas,B738 (LV-GUB),,Departed 21:15
+20:45,FO5110,Puerto Iguazu (IGR),Flybondi,B738 (LV-KCD),,Departed 18:55
+20:50,FO5224,Tucuman (TUC),Flybondi,738,,Unknown
+20:55,AR1530,Cordoba (COR),Aerolineas Argentinas,B738 (LV-GKT),,Departed 21:17
+21:05,LA424,Santiago (SCL),LATAM Airlines,A320 (PR-TYV),,Departed 21:22
+21:30,FO5304,Neuquen (NQN),Flybondi,B738 (LV-KEG),,Estimated dep. 19:27
+21:40,AR1246,Sao Paulo (GRU),Aerolineas Argentinas,B738 (LV-FVN),,Departed 21:56
+21:40,H2536,Santiago (SCL),Sky Airline,A20N (CC-AZN),,Departed 22:01
+21:40,FO5280,San Carlos de Bariloche (BRC),Flybondi,738,,Unknown
+22:00,FO5056,Mendoza (MDZ),Flybondi,B738 (LV-HKN),,Departed 22:05
+22:05,WJ3390,Puerto Iguazu (IGR),JetSMART (Kingfisher Livery),A320 (LV-KJA),,Departed 22:52
+22:15,LA8141,Sao Paulo (GRU),LATAM Airlines,A320 (PR-TYO),,Departed 22:20
+22:20,AR1686,San Carlos de Bariloche (BRC),Aerolineas Argentinas,B738 (LV-FYK),,Departed 22:47
+22:30,AR1368,Santa Cruz (VVI),Aerolineas Argentinas,E190 (LV-CET),,Departed 22:42
+22:35,JA1006,Santiago (SCL),JetSMART (Scarlet Macaw Livery),A20N (CC-AWZ),,Departed 23:33
+23:30,AR1824,Comodoro Rivadavia (CRD),Aerolineas Argentinas,E190 (LV-CID),,Departed 23:36
+23:45,FO5112,Puerto Iguazu (IGR),Flybondi,738,,Unknown
+23:55,AR1340,Asuncion (ASU),Aerolineas Argentinas,E190 (LV-CEU),,Departed 23:49
+"Monday, Dec 04",,,,,,
+2:05,AR1844,Rio Grande (RGA),Aerolineas Argentinas,B38M (LV-KEJ),,Departed 02:21
+3:25,AR1846,Rio Grande (RGA),Aerolineas Argentinas,B738 (LV-FRK),,Departed 03:30
+4:05,AR1854,Trelew (REL),Aerolineas Argentinas,B738 (LV-GVC),,Departed 04:10
+4:15,AR1872,El Calafate (FTE),Aerolineas Argentinas,B738 (LV-FXQ),,Departed 04:39
+4:40,FO5062,Mendoza (MDZ),Flybondi,B738 (LV-HKN),,Departed 05:14
+4:45,AR1470,Jujuy (JUJ),Aerolineas Argentinas,E190 (LV-CPI),,Departed 04:45
+5:05,WJ3492,Salta (SLA),JetSMART (Culpeo Livery),A320 (LV-IVN),,Departed 05:08
+5:10,AR1228,Curitiba (CWB),Aerolineas Argentinas (Retro Livery),B737 (LV-GOO),,Departed 05:19
+5:15,AR1664,Neuquen (NQN),Aerolineas Argentinas,B738 (LV-GGK),,Departed 05:26
+5:25,AR1234,Porto Alegre (POA),Aerolineas Argentinas,B38M (LV-GVE),,Departed 05:35
+5:40,FO5020,Cordoba (COR),Flybondi,738,,Unknown
+5:40,WJ3266,Cordoba (COR),JetSMART (Kingfisher Livery),A320 (LV-KJA),,Departed 05:41
+5:55,AR1462,Salta (SLA),Aerolineas Argentinas,E190 (LV-CHO),,Departed 05:58
+5:55,AR1474,Jujuy (JUJ),Aerolineas Argentinas,B738 (LV-FSK),,Departed 06:01
+5:55,AR1542,Cordoba (COR),Aerolineas Argentinas,B738 (LV-FVN),,Departed 06:11
+6:00,FO5120,Posadas (PSS),Flybondi,B738 (LV-KGN),,Departed 04:50
+6:05,WJ3390,Puerto Iguazu (IGR),JetSMART (Jaguar Livery),A320 (LV-HVT),,Departed 06:16
+6:15,AR1786,Resistencia (RES),Aerolineas Argentinas,E190 (LV-CET),,Departed 06:22
+6:30,AR1240,Sao Paulo (GRU),Aerolineas Argentinas,B738 (LV-FUC),,Departed 07:57
+6:45,AR1410,Mendoza (MDZ),Aerolineas Argentinas,E190 (LV-CIE),,Departed 06:50
+6:45,AR1452,Salta (SLA),Aerolineas Argentinas,B738 (LV-FQZ),,Departed 06:55
+6:50,AR1280,Santiago (SCL),Aerolineas Argentinas,B738 (LV-FVO),,Departed 07:09
+7:05,FO5050,Mendoza (MDZ),Flybondi,738,,Estimated dep. 07:15
+7:10,AR1508,Cordoba (COR),Aerolineas Argentinas,B737 (LV-CAD),,Departed 07:16
+7:15,AR1720,Santa Fe (SFN),Aerolineas Argentinas (SkyTeam Livery),E190 (LV-FPS),,Departed 07:20
+7:15,WJ3240,Mendoza (MDZ),JetSMART (King Penguin Livery),A320 (LV-JQE),,Departed 07:22
+7:20,AR1602,Mar del Plata (MDQ),Aerolineas Argentinas,B738 (LV-CXS),,Departed 07:27
+7:35,AR1260,Rio de Janeiro (GIG),Aerolineas Argentinas,B38M (LV-GVD),,Departed 07:38
+7:40,AR1764,Posadas (PSS),Aerolineas Argentinas,E190 (LV-CID),,Departed 07:55
+7:45,AR1650,Neuquen (NQN),Aerolineas Argentinas,E190 (LV-CEU),,Departed 07:59
+7:45,AR1894,Ushuaia (USH),Aerolineas Argentinas,B38M (LV-HKW),,Departed 08:03
+7:55,AR1244,Sao Paulo (GRU),Aerolineas Argentinas,B738 (LV-GVB),,Departed 08:09
+8:00,AR1724,Puerto Iguazu (IGR),Aerolineas Argentinas (Skyteam Livery),B737 (LV-BZA),,Departed 08:05
+8:10,AR1412,Mendoza (MDZ),Aerolineas Argentinas,E190 (LV-CHS),,Departed 08:24
+8:20,AR1702,Rosario (ROS),Aerolineas Argentinas,B738 (LV-FQC),,Departed 08:35
+8:20,AR1828,Comodoro Rivadavia (CRD),Aerolineas Argentinas,E190 (LV-GIK),,Departed 08:48
+8:30,AR1800,Rio Gallegos (RGL),Aerolineas Argentinas,B738 (LV-FWS),,Departed 09:00
+8:40,AR1768,Formosa (FMA),Aerolineas Argentinas,E190 (LV-FPT),,Departed 09:12
+8:45,AR1898,Ushuaia (USH),Aerolineas Argentinas,73M,,Unknown
+8:50,AR1770,Corrientes (CNQ),Aerolineas Argentinas,E190 (LV-GBK),,Departed 09:31
+8:55,AR1732,Puerto Iguazu (IGR),Aerolineas Argentinas,B38M (LV-KEI),,Departed 09:18
+8:55,ZP821,Asuncion (ASU),Paranair,CRJ2 (ZP-CRR),,Departed 08:51
+9:05,AR1420,San Juan (UAQ),Aerolineas Argentinas,E190 (LV-CMB),,Departed 09:36
+9:10,AR1672,San Martin de los Andes (CPC),Aerolineas Argentinas,B38M (LV-HKU),,Departed 09:48
+9:20,AR1682,San Carlos de Bariloche (BRC),Aerolineas Argentinas,B738 (LV-GKU),,Departed 09:41
+9:30,AR1620,Bahia Blanca (BHI),Aerolineas Argentinas,E190 (LV-CMA),,Departed 10:09
+9:30,FO5310,Puerto Madryn (PMY),Flybondi,B738 (LV-HKN),,Departed 10:59
+9:45,AR1342,Asuncion (ASU),Aerolineas Argentinas,B738 (LV-GVC),,Departed 10:27
+9:45,AR1896,Ushuaia (USH),Aerolineas Argentinas,B38M (LV-HKV),,Departed 10:05
+9:55,AR1608,Mar del Plata (MDQ),Aerolineas Argentinas,E190 (LV-CKZ),,Departed 10:18
+9:55,FO5102,Puerto Iguazu (IGR),Flybondi,738,,Unknown
+9:56,WJ3550,San Martin de los Andes (CPC),JetSMART (Kingfisher Livery),A320 (LV-KJA),,Departed 09:58
+10:00,AR1834,Comodoro Rivadavia (CRD),Aerolineas Argentinas,B738 (LV-GVA),,Departed 11:26
+10:05,AR1384,Montevideo (MVD),Aerolineas Argentinas,B738 (LV-GKT),,Departed 10:15
+10:10,AR1406,Mendoza (MDZ),Aerolineas Argentinas,E190 (LV-CIH),,Departed 10:23
+10:10,FO5018,Cordoba (COR),Flybondi,B738 (LV-KGN),,Departed 10:21
+10:15,AR1882,Trelew (REL),Aerolineas Argentinas,B738 (LV-FVN),,Departed 10:38
+10:20,AR1430,San Luis (LUQ),Aerolineas Argentinas,E190 (LV-CPI),,Departed 10:31
+10:30,AR1876,El Calafate (FTE),Aerolineas Argentinas,B38M (LV-GVE),,Departed 10:55
+10:35,LA8143,Rio de Janeiro (GIG),LATAM Airlines,A320 (PR-MHA),,Departed 10:46
+10:39,WJ3620,Corrientes (CNQ),JetSMART (Andean Condor Livery),A320 (LV-KFX),,Departed 11:21
+10:40,AR1448,Mendoza (MDZ),Aerolineas Argentinas,E190 (LV-CDZ),,Departed 11:24
+10:40,AR1510,Cordoba (COR),Aerolineas Argentinas,E190 (LV-CET),,Departed 10:57
+11:00,AR1498,Tucuman (TUC),Aerolineas Argentinas,B737 (LV-BZO),,Departed 11:10
+11:00,AR1780,Resistencia (RES),Aerolineas Argentinas (SkyTeam Livery),E190 (LV-FPS),,Departed 11:17
+11:00,FO5500,Comodoro Rivadavia (CRD),Flybondi,B738 (LV-KDR),,Departed 12:34
+11:10,AR1284,Santiago (SCL),Aerolineas Argentinas,B38M (LV-KEJ),,Departed 11:33
+11:30,AR1726,Parana (PRA),Aerolineas Argentinas,E190 (LV-CIE),,Departed 11:51
+11:40,AR1434,San Rafael (AFA),Aerolineas Argentinas,E190 (LV-CHO),,Departed 11:54
+11:40,LA420,Santiago (SCL),LATAM Airlines,A320 (CC-BAZ),,Departed 11:49
+11:50,AR1736,Puerto Iguazu (IGR),Private owner,C172 (LV-CBD),,Departed 11:59
+11:50,FO5104,Puerto Iguazu (IGR),Flybondi,B738 (LV-KJF),,Departed 12:24
+11:55,AR1454,Salta (SLA),Aerolineas Argentinas,B738 (LV-GUB),,Departed 12:19
+11:55,AR1550,Cordoba (COR),Aerolineas Argentinas,B738 (LV-GGK),,Departed 12:12
+11:55,FO5168,Salta (SLA),Flybondi,B738 (LV-KAY),,Departed 12:06
+12:10,AR1494,Santiago del Estero (SDE),Aerolineas Argentinas,E190 (LV-CID),,Departed 12:48
+12:10,G37653,Rio de Janeiro (GIG),GOL Linhas Aereas,B38M (PS-GPC),,Departed 12:41
+12:20,AR1630,San Carlos de Bariloche (BRC),Aerolineas Argentinas,B737 (LV-CAD),,Departed 12:28
+12:20,AR1802,Rio Gallegos (RGL),Aerolineas Argentinas,B738 (LV-CXS),,Departed 12:36
+12:39,WJ3014,Santiago (SCL),JetSMART (Jaguar Livery),A320 (LV-HVT),,Departed 12:53
+12:50,LA8033,Sao Paulo (GRU),LATAM Airlines,A320 (PR-MAG),,Departed 12:59
+12:55,AR1442,Catamarca (CTC),Aerolineas Argentinas,E190 (LV-CMA),,Departed 14:04
+12:55,AR1670,San Martin de los Andes (CPC),Aerolineas Argentinas,B738 (LV-FRK),,Departed 13:05
+13:00,AR1666,Esquel (EQS),Aerolineas Argentinas (Retro Livery),B737 (LV-GOO),,Departed 13:10
+13:00,AR1716,Rosario (ROS),Aerolineas Argentinas,E190 (LV-CEU),,Departed 13:07
+13:00,FO5014,Cordoba (COR),Flybondi,B738 (LV-KJD),,Departed 13:03
+13:05,AR1644,San Carlos de Bariloche (BRC),Aerolineas Argentinas,B738 (LV-FVO),,Departed 13:15
+13:15,AR1480,Tucuman (TUC),Aerolineas Argentinas,B737 (LV-CAP),,Departed 13:22
+13:20,AR1772,Corrientes (CNQ),Aerolineas Argentinas,E190 (LV-FPT),,Departed 14:06
+13:21,WJ3090,Asuncion (ASU),JetSMART (King Penguin Livery),A320 (LV-JQE),,Departed 13:31
+13:25,AR1440,La Rioja (IRJ),Aerolineas Argentinas (Skyteam Livery),B737 (LV-BZA),,Departed 13:33
+13:30,AR1640,Viedma (VDM),Aerolineas Argentinas,E190 (LV-GBK),,Departed 14:01
+13:35,AR1450,Salta (SLA),Aerolineas Argentinas,E190 (LV-CMB),,Departed 14:39
+13:35,FO5150,Corrientes (CNQ),Flybondi,B738 (LV-KCD),,Departed 14:26
+13:35,WJ3242,Mendoza (MDZ),JetSMART (Culpeo Livery),A320 (LV-IVN),,Departed 13:36
+13:40,AR1286,Santiago (SCL),Aerolineas Argentinas,B738 (LV-GFQ),,Departed 13:57
+14:00,AR1676,San Carlos de Bariloche (BRC),Aerolineas Argentinas,B738 (LV-GKT),,Departed 14:13
+14:00,FO5054,Mendoza (MDZ),Flybondi,B738 (LV-KEG),,Departed 14:10
+14:10,AR1352,Punta del Este (PDP),Aerolineas Argentinas,E190 (LV-CIF),,Departed 15:05
+14:10,G37665,Sao Paulo (GRU),GOL Linhas Aereas,B38M (PS-GPL),,Departed 14:59
+14:15,FO5230,Santiago del Estero (SDE),Flybondi,B738 (LV-KEH),,Departed 10:51
+14:20,AR1604,Mar del Plata (MDQ),Aerolineas Argentinas,B737 (LV-CBF),,Departed 14:46
+14:40,AR1422,San Juan (UAQ),Aerolineas Argentinas,E190 (LV-CPI),,Departed 15:01
